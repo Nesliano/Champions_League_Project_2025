@@ -155,5 +155,5 @@ def update_heatmap(team):
     
 #Running the script
 if __name__ == '__main__':
-    # app.run_server(debug=False, port=8099)
+    # app.run_server(debug=False, port=8100)
     app.run(debug=False, port=8100)
