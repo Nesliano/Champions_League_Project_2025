@@ -1,0 +1,83 @@
+round_of_comp,date,home_team,away_team,home_nation,away_nation,home_goals,away_goals,home_penalties,away_penalties,venue,winning_team,result_90_min,latitude,longitude,location
+Preliminary round,1992-08-19,Olimpija,FC Norma Tallinn,Slovenia,Estonia,3,0,,,Bežigrad,Olimpija,3-0,46.068061,14.5098859,"Bežigrad, Slovenia"
+Preliminary round,1992-08-19,Valletta FC,Maccabi Tel Aviv FC,Malta,Israel,1,2,,,National Stadium,Maccabi Tel Aviv FC,1-2,35.8948336,14.4152373,"National Stadium, Malta"
+Preliminary round,1992-08-19,KÍ Klaksvík,Skonto FC,Faroe Islands,Latvia,1,3,,,Toftir,Skonto FC,1-3,62.0909703,-6.7322421,"Toftir, Faroe Islands"
+Preliminary round,1992-08-19,Shelbourne FC,Tavriya Simferopol,Republic of Ireland,Ukraine,0,0,,,Tolka Park,,0-0,53.367557,-6.2519815,"Tolka Park, Republic of Ireland"
+Preliminary round,1992-09-02,FC Norma Tallinn,Olimpija,Estonia,Slovenia,0,2,,,Rannavärava,Olimpija,0-2,58.4629678,23.2337421,"Rannavärava, Estonia"
+Preliminary round,1992-09-02,Maccabi Tel Aviv FC,Valletta FC,Israel,Malta,1,0,,,Itztadion Ramat Gan,Maccabi Tel Aviv FC,1-0,30.8124247,34.8594762,Israel
+Preliminary round,1992-09-02,Tavriya Simferopol,Shelbourne FC,Ukraine,Republic of Ireland,2,1,,,Lokomotiv Stadium,Tavriya Simferopol,2-1,47.7542834,29.529386,"Lokomotiv Stadium, Ukraine"
+Preliminary round,1992-09-02,Skonto FC,KÍ Klaksvík,Latvia,Faroe Islands,3,0,,,Skonto Stadions,Skonto FC,3-0,56.9612635,24.1162151,"Skonto Stadions, Latvia"
+First round,1992-09-16,Glentoran,Marseille,Northern Ireland,France,0,5,,,The Oval,Marseille,0-5,54.6029542,-5.891295,"The Oval, Northern Ireland"
+First round,1992-09-16,Lech Poznań,Skonto FC,Poland,Latvia,2,0,,,Stadion Miejski,Lech Poznań,2-0,53.1059626,23.1492847,"Stadion Miejski, Poland"
+First round,1992-09-16,Göteborg,Beşiktaş,Sweden,Turkey,2,0,,,Ullevi,Göteborg,2-0,57.7059197,11.9873276,"Ullevi, Sweden"
+First round,1992-09-16,Slovan Bratislava,Ferencváros,Slovakia,Hungary,4,1,,,Tehelné Pole,Slovan Bratislava,4-1,48.1615116,17.1321558,"Tehelné Pole, Slovakia"
+First round,1992-09-16,Union Luxembourg,Porto,Luxembourg,Portugal,1,4,,,Achille Hammerel,Porto,1-4,49.8158683,6.1296751,Luxembourg
+First round,1992-09-16,PSV,Žalgiris,Netherlands,Lithuania,6,0,,,PSV Stadion,PSV,6-0,51.4412669,5.468626,"PSV Stadion, Netherlands"
+First round,1992-09-16,Sion,Tavriya Simferopol,Switzerland,Ukraine,4,1,,,Tourbillon,Sion,4-1,46.1644881,6.1036534,"Tourbillon, Switzerland"
+First round,1992-09-16,Austria Wien,CSKA Sofia,Austria,Bulgaria,3,1,,,Ernst-Happel-Stadion,Austria Wien,3-1,48.2071894,16.4209171,"Ernst-Happel-Stadion, Austria"
+First round,1992-09-16,Maccabi Tel Aviv FC,Club Brugge,Israel,Belgium,0,1,,,Itztadion Ramat Gan,Club Brugge,0-1,30.8124247,34.8594762,Israel
+First round,1992-09-16,KV,CSKA Moscow,Iceland,Russia,0,1,,,Víkingsvöllur,CSKA Moscow,0-1,64.1169904,-21.8525285,"Víkingsvöllur, Iceland"
+First round,1992-09-16,Lahti,Dinamo București,Finland,Romania,1,0,,,Lahti Stadium,Lahti,1-0,60.9829953,25.6359598,"Lahti Stadium, Finland"
+First round,1992-09-16,AEK Athens,APOEL FC,Greece,Cyprus,1,1,,,Nikos Goumas,,1-1,38.9953683,21.9877132,Greece
+First round,1992-09-16,Stuttgart,Leeds United,Germany,England,3,0,,,Mercedes-Benz-Arena,Stuttgart,3-0,48.7922487,9.2320857,"Mercedes-Benz-Arena, Germany"
+First round,1992-09-16,Barcelona,Viking,Spain,Norway,1,0,,,Camp Nou,Barcelona,1-0,41.3808046,2.1158872,"Camp Nou, Spain"
+First round,1992-09-16,Rangers,Lyngby,Scotland,Denmark,2,0,,,Ibrox Stadium,Rangers,2-0,55.8532206,-4.3093239,"Ibrox Stadium, Scotland"
+First round,1992-09-16,Milan,Olimpija,Italy,Slovenia,4,0,,,Stadio San Siro,Milan,4-0,45.4782003,9.123964,"Stadio San Siro, Italy"
+First round,1992-09-30,Marseille,Glentoran,France,Northern Ireland,3,0,,,Stade Vélodrome,Marseille,3-0,43.269835,5.3959117,"Stade Vélodrome, France"
+First round,1992-09-30,Žalgiris,PSV,Lithuania,Netherlands,0,2,,,Žalgiris,PSV,0-2,54.8029406,24.950034,"Žalgiris, Lithuania"
+First round,1992-09-30,Ferencváros,Slovan Bratislava,Hungary,Slovakia,0,0,,,Groupama Aréna,,0-0,47.4754047,19.0952134,"Groupama Aréna, Hungary"
+First round,1992-09-30,APOEL FC,AEK Athens,Cyprus,Greece,2,2,,,Makarion,,2-2,34.9174159,32.8899027,Cyprus
+First round,1992-09-30,Lyngby,Rangers,Denmark,Scotland,0,1,,,Lyngby,Rangers,0-1,55.7718649,12.5051413,"Lyngby, Denmark"
+First round,1992-09-30,Viking,Barcelona,Norway,Spain,0,0,,,Viking,,0-0,59.9281005,10.8419035,"Viking, Norway"
+First round,1992-09-30,Olimpija,Milan,Slovenia,Italy,0,3,,,Bežigrad,Milan,0-3,46.068061,14.5098859,"Bežigrad, Slovenia"
+First round,1992-09-30,CSKA Sofia,Austria Wien,Bulgaria,Austria,3,2,,,Bulgarska Armia Stadion,CSKA Sofia,3-2,42.6073975,25.4856617,Bulgaria
+First round,1992-09-30,CSKA Moscow,KV,Russia,Iceland,4,2,,,Peschanoe,CSKA Moscow,4-2,58.371845,31.192169,"Peschanoe, Russia"
+First round,1992-09-30,Leeds United,Stuttgart,England,Germany,3,0,,,Elland Road,Leeds United,3-0,51.4587449,-0.0542608,"Elland Road, England"
+First round,1992-09-30,Beşiktaş,Göteborg,Turkey,Sweden,2,1,,,BJK İnönü Stadyumu,Beşiktaş,2-1,39.294076,35.2316631,Turkey
+First round,1992-09-30,Porto,Union Luxembourg,Portugal,Luxembourg,5,0,,,As Antas,Porto,5-0,41.4050336,-8.5167111,"As Antas, Portugal"
+First round,1992-09-30,Skonto FC,Lech Poznań,Latvia,Poland,0,0,,,Skonto Stadions,,0-0,56.9612635,24.1162151,"Skonto Stadions, Latvia"
+First round,1992-09-30,Tavriya Simferopol,Sion,Ukraine,Switzerland,1,3,,,Lokomotiv Stadium,Sion,1-3,47.7542834,29.529386,"Lokomotiv Stadium, Ukraine"
+First round,1992-09-30,Club Brugge,Maccabi Tel Aviv FC,Belgium,Israel,3,0,,,Jules George,Club Brugge,3-0,50.6402809,4.6667145,Belgium
+First round,1992-09-30,Dinamo București,Lahti,Romania,Finland,2,0,,,Dinamo,Dinamo București,2-0,44.4550761,26.102311,"Dinamo, Romania"
+First round,1992-10-09,Leeds United,Stuttgart,England,Germany,2,1,,,Camp Nou,Leeds United,2-1,52.5310214,-1.2649062,England
+Second round,1992-10-21,Sion,Porto,Switzerland,Portugal,2,2,,,Tourbillon,,2-2,46.1644881,6.1036534,"Tourbillon, Switzerland"
+Second round,1992-10-21,Rangers,Leeds United,Scotland,England,2,1,,,Ibrox Stadium,Rangers,2-1,55.8532206,-4.3093239,"Ibrox Stadium, Scotland"
+Second round,1992-10-21,Göteborg,Lech Poznań,Sweden,Poland,1,0,,,Ullevi,Göteborg,1-0,57.7059197,11.9873276,"Ullevi, Sweden"
+Second round,1992-10-21,AEK Athens,PSV,Greece,Netherlands,1,0,,,Nikos Goumas,AEK Athens,1-0,38.9953683,21.9877132,Greece
+Second round,1992-10-21,Dinamo București,Marseille,Romania,France,0,0,,,Dinamo,,0-0,44.4550761,26.102311,"Dinamo, Romania"
+Second round,1992-10-21,CSKA Moscow,Barcelona,Russia,Spain,1,1,,,Luzhniki Stadium,,1-1,55.7157445,37.5537673,"Luzhniki Stadium, Russia"
+Second round,1992-10-21,Club Brugge,Austria Wien,Belgium,Austria,2,0,,,Jan Breydelstadion,Club Brugge,2-0,51.1933461,3.1805853,"Jan Breydelstadion, Belgium"
+Second round,1992-10-21,Slovan Bratislava,Milan,Slovakia,Italy,0,1,,,Tehelné Pole,Milan,0-1,48.1615116,17.1321558,"Tehelné Pole, Slovakia"
+Second round,1992-11-04,Leeds United,Rangers,England,Scotland,1,2,,,Elland Road,Rangers,1-2,51.4587449,-0.0542608,"Elland Road, England"
+Second round,1992-11-04,Porto,Sion,Portugal,Switzerland,4,0,,,As Antas,Porto,4-0,41.4050336,-8.5167111,"As Antas, Portugal"
+Second round,1992-11-04,Milan,Slovan Bratislava,Italy,Slovakia,4,0,,,Stadio San Siro,Milan,4-0,45.4782003,9.123964,"Stadio San Siro, Italy"
+Second round,1992-11-04,Marseille,Dinamo București,France,Romania,2,0,,,Stade Vélodrome,Marseille,2-0,43.269835,5.3959117,"Stade Vélodrome, France"
+Second round,1992-11-04,Barcelona,CSKA Moscow,Spain,Russia,2,3,,,Camp Nou,CSKA Moscow,2-3,41.3808046,2.1158872,"Camp Nou, Spain"
+Second round,1992-11-04,Austria Wien,Club Brugge,Austria,Belgium,3,1,,,Gerhard-Hanappi-Stadion,Austria Wien,3-1,47.59397,14.12456,Austria
+Second round,1992-11-04,Lech Poznań,Göteborg,Poland,Sweden,0,3,,,Stadion Miejski,Göteborg,0-3,53.1059626,23.1492847,"Stadion Miejski, Poland"
+Second round,1992-11-04,PSV,AEK Athens,Netherlands,Greece,3,0,,,PSV Stadion,PSV,3-0,51.4412669,5.468626,"PSV Stadion, Netherlands"
+Group stage,1992-11-25,Rangers,Marseille,Scotland,France,2,2,,,Ibrox Stadium,,2-2,55.8532206,-4.3093239,"Ibrox Stadium, Scotland"
+Group stage,1992-11-25,Milan,Göteborg,Italy,Sweden,4,0,,,Stadio San Siro,Milan,4-0,45.4782003,9.123964,"Stadio San Siro, Italy"
+Group stage,1992-11-25,Porto,PSV,Portugal,Netherlands,2,2,,,As Antas,,2-2,41.4050336,-8.5167111,"As Antas, Portugal"
+Group stage,1992-11-25,Club Brugge,CSKA Moscow,Belgium,Russia,1,0,,,Jan Breydelstadion,Club Brugge,1-0,51.1933461,3.1805853,"Jan Breydelstadion, Belgium"
+Group stage,1992-12-09,PSV,Milan,Netherlands,Italy,1,2,,,PSV Stadion,Milan,1-2,51.4412669,5.468626,"PSV Stadion, Netherlands"
+Group stage,1992-12-09,Marseille,Club Brugge,France,Belgium,3,0,,,Stade Vélodrome,Marseille,3-0,43.269835,5.3959117,"Stade Vélodrome, France"
+Group stage,1992-12-09,Göteborg,Porto,Sweden,Portugal,1,0,,,Ullevi,Göteborg,1-0,57.7059197,11.9873276,"Ullevi, Sweden"
+Group stage,1992-12-09,CSKA Moscow,Rangers,Russia,Scotland,0,1,,,Ruhrstadion,Rangers,0-1,64.6863136,97.7453061,Russia
+Group stage,1993-03-03,CSKA Moscow,Marseille,Russia,France,1,1,,,Olympiastadion,,1-1,64.6863136,97.7453061,Russia
+Group stage,1993-03-03,PSV,Göteborg,Netherlands,Sweden,1,3,,,PSV Stadion,Göteborg,1-3,51.4412669,5.468626,"PSV Stadion, Netherlands"
+Group stage,1993-03-03,Porto,Milan,Portugal,Italy,0,1,,,As Antas,Milan,0-1,41.4050336,-8.5167111,"As Antas, Portugal"
+Group stage,1993-03-03,Club Brugge,Rangers,Belgium,Scotland,1,1,,,Jan Breydelstadion,,1-1,51.1933461,3.1805853,"Jan Breydelstadion, Belgium"
+Group stage,1993-03-17,Milan,Porto,Italy,Portugal,1,0,,,Stadio San Siro,Milan,1-0,45.4782003,9.123964,"Stadio San Siro, Italy"
+Group stage,1993-03-17,Rangers,Club Brugge,Scotland,Belgium,2,1,,,Ibrox Stadium,Rangers,2-1,55.8532206,-4.3093239,"Ibrox Stadium, Scotland"
+Group stage,1993-03-17,Göteborg,PSV,Sweden,Netherlands,3,0,,,Ullevi,Göteborg,3-0,57.7059197,11.9873276,"Ullevi, Sweden"
+Group stage,1993-03-17,Marseille,CSKA Moscow,France,Russia,6,0,,,Stade Vélodrome,Marseille,6-0,43.269835,5.3959117,"Stade Vélodrome, France"
+Group stage,1993-04-07,PSV,Porto,Netherlands,Portugal,0,1,,,PSV Stadion,Porto,0-1,51.4412669,5.468626,"PSV Stadion, Netherlands"
+Group stage,1993-04-07,Göteborg,Milan,Sweden,Italy,0,1,,,Ullevi,Milan,0-1,57.7059197,11.9873276,"Ullevi, Sweden"
+Group stage,1993-04-07,CSKA Moscow,Club Brugge,Russia,Belgium,1,2,,,Olympiastadion,Club Brugge,1-2,64.6863136,97.7453061,Russia
+Group stage,1993-04-07,Marseille,Rangers,France,Scotland,1,1,,,Stade Vélodrome,,1-1,43.269835,5.3959117,"Stade Vélodrome, France"
+Group stage,1993-04-21,Porto,Göteborg,Portugal,Sweden,2,0,,,As Antas,Porto,2-0,41.4050336,-8.5167111,"As Antas, Portugal"
+Group stage,1993-04-21,Milan,PSV,Italy,Netherlands,2,0,,,Stadio San Siro,Milan,2-0,45.4782003,9.123964,"Stadio San Siro, Italy"
+Group stage,1993-04-21,Rangers,CSKA Moscow,Scotland,Russia,0,0,,,Ibrox Stadium,,0-0,55.8532206,-4.3093239,"Ibrox Stadium, Scotland"
+Group stage,1993-04-21,Club Brugge,Marseille,Belgium,France,0,1,,,Jan Breydelstadion,Marseille,0-1,51.1933461,3.1805853,"Jan Breydelstadion, Belgium"
+Final,1993-05-26,Marseille,Milan,France,Italy,1,0,,,Olympiastadion (Neutral Site),Marseille,1-0,52.5145846,13.2398144,Olympiastadion 

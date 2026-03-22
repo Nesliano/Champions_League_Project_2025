@@ -1,0 +1,86 @@
+round_of_comp,date,home_team,away_team,home_nation,away_nation,home_goals,away_goals,home_penalties,away_penalties,venue,winning_team,result_90_min,latitude,longitude,location
+Group stage,1998-09-16,Panathinaikos,Dynamo Kyiv,Greece,Ukraine,2,1,,,OAKA Spiros Louis,Panathinaikos,2-1,38.9953683,21.9877132,Greece
+Group stage,1998-09-16,Lens,Arsenal,France,England,1,1,,,Stade Félix-Bollaert,,1-1,50.43281,2.8149878,"Stade Félix-Bollaert, France"
+Group stage,1998-09-16,Manchester Utd,Barcelona,England,Spain,3,3,,,Old Trafford,,3-3,53.4631095,-2.2913865,"Old Trafford, England"
+Group stage,1998-09-16,Kaiserslautern,Benfica,Germany,Portugal,1,0,,,Fritz-Walter,Kaiserslautern,1-0,49.4948288,7.9240823,"Fritz-Walter, Germany"
+Group stage,1998-09-16,Porto,Olympiacos,Portugal,Greece,2,2,,,Estádio das Antas,,2-2,41.1618235,-8.5837492,"Estádio das Antas, Portugal"
+Group stage,1998-09-16,Athletic Club,Rosenborg,Spain,Norway,1,1,,,Estadio de San Mamés,,1-1,39.3260685,-4.8379791,Spain
+Group stage,1998-09-16,Brøndby,Bayern Munich,Denmark,Germany,2,1,,,FC København Stadium,Brøndby,2-1,55.670249,10.3333283,Denmark
+Group stage,1998-09-16,Croatia Zagreb,Ajax,Croatia,Netherlands,0,0,,,Stadion Maksimir,,0-0,45.8186879,16.0179376,"Stadion Maksimir, Croatia"
+Group stage,1998-09-16,Sturm Graz,Spartak Moscow,Austria,Russia,0,2,,,Stadion Graz Liebenau,Spartak Moscow,0-2,47.0463666,15.454008,"Stadion Graz Liebenau, Austria"
+Group stage,1998-09-16,Real Madrid,Inter,Spain,Italy,2,0,,,Estadio Ramón Sánchez Pizjuán,Real Madrid,2-0,37.3840876,-5.9706309,"Estadio Ramón Sánchez Pizjuán, Spain"
+Group stage,1998-09-16,PSV,HJK Helsinki,Netherlands,Finland,2,1,,,PSV Stadion,PSV,2-1,51.4412669,5.468626,"PSV Stadion, Netherlands"
+Group stage,1998-09-16,Juventus,Galatasaray,Italy,Turkey,2,2,,,Delle Alpi,,2-2,46.2617049,10.59038,"Delle Alpi, Italy"
+Group stage,1998-09-30,Bayern Munich,Manchester Utd,Germany,England,2,2,,,Olympiastadion,,2-2,52.5145846,13.2398144,"Olympiastadion, Germany"
+Group stage,1998-09-30,HJK Helsinki,Kaiserslautern,Finland,Germany,0,0,,,Helsingin Olympiastadion,,0-0,60.187003,24.9272463,"Helsingin Olympiastadion, Finland"
+Group stage,1998-09-30,Barcelona,Brøndby,Spain,Denmark,2,0,,,Camp Nou,Barcelona,2-0,41.3808046,2.1158872,"Camp Nou, Spain"
+Group stage,1998-09-30,Olympiacos,Croatia Zagreb,Greece,Croatia,2,0,,,OAKA Spiros Louis,Olympiacos,2-0,38.9953683,21.9877132,Greece
+Group stage,1998-09-30,Arsenal,Panathinaikos,England,Greece,2,1,,,Wembley,Arsenal,2-1,51.5560695,-0.2796034,"Wembley, England"
+Group stage,1998-09-30,Inter,Sturm Graz,Italy,Austria,1,0,,,Stadio Giuseppe Meazza,Inter,1-0,45.4782003,9.123964,"Stadio Giuseppe Meazza, Italy"
+Group stage,1998-09-30,Rosenborg,Juventus,Norway,Italy,1,1,,,Lerkendal Stadion,,1-1,63.4123264,10.4044664,"Lerkendal Stadion, Norway"
+Group stage,1998-09-30,Galatasaray,Athletic Club,Turkey,Spain,2,1,,,Ali Sami Yen Stadyumu,Galatasaray,2-1,41.103369,28.9909522,"Ali Sami Yen Stadyumu, Turkey"
+Group stage,1998-09-30,Dynamo Kyiv,Lens,Ukraine,France,1,1,,,Stadion Dynamo im. Valeriy Lobanovskiy,,1-1,49.4871968,31.2718321,Ukraine
+Group stage,1998-09-30,Ajax,Porto,Netherlands,Portugal,2,1,,,Amsterdam ArenA,Ajax,2-1,52.3159898,4.9429305,"Amsterdam ArenA, Netherlands"
+Group stage,1998-09-30,Spartak Moscow,Real Madrid,Russia,Spain,2,1,,,Stadion Luzhniki,Spartak Moscow,2-1,55.7157445,37.5537673,"Stadion Luzhniki, Russia"
+Group stage,1998-09-30,Benfica,PSV,Portugal,Netherlands,2,1,,,Estádio do SL Benfica,Benfica,2-1,39.6621648,-8.1353519,Portugal
+Group stage,1998-10-21,Brøndby,Manchester Utd,Denmark,England,2,6,,,FC København Stadium,Manchester Utd,2-6,55.670249,10.3333283,Denmark
+Group stage,1998-10-21,Real Madrid,Sturm Graz,Spain,Austria,6,1,,,Estadio Santiago Bernabéu,Real Madrid,6-1,40.4521778,-3.6876573,"Estadio Santiago Bernabéu, Spain"
+Group stage,1998-10-21,Arsenal,Dynamo Kyiv,England,Ukraine,1,1,,,Wembley,,1-1,51.5560695,-0.2796034,"Wembley, England"
+Group stage,1998-10-21,HJK Helsinki,Benfica,Finland,Portugal,2,0,,,Helsingin Olympiastadion,HJK Helsinki,2-0,60.187003,24.9272463,"Helsingin Olympiastadion, Finland"
+Group stage,1998-10-21,Rosenborg,Galatasaray,Norway,Turkey,3,0,,,Lerkendal Stadion,Rosenborg,3-0,63.4123264,10.4044664,"Lerkendal Stadion, Norway"
+Group stage,1998-10-21,Athletic Club,Juventus,Spain,Italy,0,0,,,Estadio de San Mamés,,0-0,39.3260685,-4.8379791,Spain
+Group stage,1998-10-21,Lens,Panathinaikos,France,Greece,1,0,,,Stade Félix-Bollaert,Lens,1-0,50.43281,2.8149878,"Stade Félix-Bollaert, France"
+Group stage,1998-10-21,Porto,Croatia Zagreb,Portugal,Croatia,3,0,,,Estádio das Antas,Porto,3-0,41.1618235,-8.5837492,"Estádio das Antas, Portugal"
+Group stage,1998-10-21,Olympiacos,Ajax,Greece,Netherlands,1,0,,,OAKA Spiros Louis,Olympiacos,1-0,38.9953683,21.9877132,Greece
+Group stage,1998-10-21,PSV,Kaiserslautern,Netherlands,Germany,1,2,,,PSV Stadion,Kaiserslautern,1-2,51.4412669,5.468626,"PSV Stadion, Netherlands"
+Group stage,1998-10-21,Inter,Spartak Moscow,Italy,Russia,2,1,,,Stadio Giuseppe Meazza,Inter,2-1,45.4782003,9.123964,"Stadio Giuseppe Meazza, Italy"
+Group stage,1998-10-21,Bayern Munich,Barcelona,Germany,Spain,1,0,,,Olympiastadion,Bayern Munich,1-0,52.5145846,13.2398144,"Olympiastadion, Germany"
+Group stage,1998-11-04,Kaiserslautern,PSV,Germany,Netherlands,3,1,,,Fritz-Walter,Kaiserslautern,3-1,49.4948288,7.9240823,"Fritz-Walter, Germany"
+Group stage,1998-11-04,Juventus,Athletic Club,Italy,Spain,1,1,,,Delle Alpi,,1-1,46.2617049,10.59038,"Delle Alpi, Italy"
+Group stage,1998-11-04,Manchester Utd,Brøndby,England,Denmark,5,0,,,Old Trafford,Manchester Utd,5-0,53.4631095,-2.2913865,"Old Trafford, England"
+Group stage,1998-11-04,Galatasaray,Rosenborg,Turkey,Norway,3,0,,,Ali Sami Yen Stadyumu,Galatasaray,3-0,41.103369,28.9909522,"Ali Sami Yen Stadyumu, Turkey"
+Group stage,1998-11-04,Barcelona,Bayern Munich,Spain,Germany,1,2,,,Camp Nou,Bayern Munich,1-2,41.3808046,2.1158872,"Camp Nou, Spain"
+Group stage,1998-11-04,Ajax,Olympiacos,Netherlands,Greece,2,0,,,Amsterdam ArenA,Ajax,2-0,52.3159898,4.9429305,"Amsterdam ArenA, Netherlands"
+Group stage,1998-11-04,Croatia Zagreb,Porto,Croatia,Portugal,3,1,,,Stadion Maksimir,Croatia Zagreb,3-1,45.8186879,16.0179376,"Stadion Maksimir, Croatia"
+Group stage,1998-11-04,Panathinaikos,Lens,Greece,France,1,0,,,OAKA Spiros Louis,Panathinaikos,1-0,38.9953683,21.9877132,Greece
+Group stage,1998-11-04,Dynamo Kyiv,Arsenal,Ukraine,England,3,1,,,Stadion Dynamo im. Valeriy Lobanovskiy,Dynamo Kyiv,3-1,49.4871968,31.2718321,Ukraine
+Group stage,1998-11-04,Benfica,HJK Helsinki,Portugal,Finland,2,2,,,Estádio do SL Benfica,,2-2,39.6621648,-8.1353519,Portugal
+Group stage,1998-11-04,Spartak Moscow,Inter,Russia,Italy,1,1,,,Stadion Luzhniki,,1-1,55.7157445,37.5537673,"Stadion Luzhniki, Russia"
+Group stage,1998-11-05,Sturm Graz,Real Madrid,Austria,Spain,1,5,,,Stadion Graz Liebenau,Real Madrid,1-5,47.0463666,15.454008,"Stadion Graz Liebenau, Austria"
+Group stage,1998-11-25,Inter,Real Madrid,Italy,Spain,3,1,,,Stadio Giuseppe Meazza,Inter,3-1,45.4782003,9.123964,"Stadio Giuseppe Meazza, Italy"
+Group stage,1998-11-25,Olympiacos,Porto,Greece,Portugal,2,1,,,OAKA Spiros Louis,Olympiacos,2-1,38.9953683,21.9877132,Greece
+Group stage,1998-11-25,Rosenborg,Athletic Club,Norway,Spain,2,1,,,Lerkendal Stadion,Rosenborg,2-1,63.4123264,10.4044664,"Lerkendal Stadion, Norway"
+Group stage,1998-11-25,Spartak Moscow,Sturm Graz,Russia,Austria,0,0,,,Stadion Luzhniki,,0-0,55.7157445,37.5537673,"Stadion Luzhniki, Russia"
+Group stage,1998-11-25,Arsenal,Lens,England,France,0,1,,,Wembley,Lens,0-1,51.5560695,-0.2796034,"Wembley, England"
+Group stage,1998-11-25,Bayern Munich,Brøndby,Germany,Denmark,2,0,,,Olympiastadion,Bayern Munich,2-0,52.5145846,13.2398144,"Olympiastadion, Germany"
+Group stage,1998-11-25,Ajax,Croatia Zagreb,Netherlands,Croatia,0,1,,,Amsterdam ArenA,Croatia Zagreb,0-1,52.3159898,4.9429305,"Amsterdam ArenA, Netherlands"
+Group stage,1998-11-25,Barcelona,Manchester Utd,Spain,England,3,3,,,Camp Nou,,3-3,41.3808046,2.1158872,"Camp Nou, Spain"
+Group stage,1998-11-25,Benfica,Kaiserslautern,Portugal,Germany,2,1,,,Estádio do SL Benfica,Benfica,2-1,39.6621648,-8.1353519,Portugal
+Group stage,1998-11-25,Dynamo Kyiv,Panathinaikos,Ukraine,Greece,2,1,,,Stadion Dynamo im. Valeriy Lobanovskiy,Dynamo Kyiv,2-1,49.4871968,31.2718321,Ukraine
+Group stage,1998-11-25,HJK Helsinki,PSV,Finland,Netherlands,1,3,,,Helsingin Olympiastadion,PSV,1-3,60.187003,24.9272463,"Helsingin Olympiastadion, Finland"
+Group stage,1998-12-02,Galatasaray,Juventus,Turkey,Italy,1,1,,,Ali Sami Yen Stadyumu,,1-1,41.103369,28.9909522,"Ali Sami Yen Stadyumu, Turkey"
+Group stage,1998-12-09,Panathinaikos,Arsenal,Greece,England,1,3,,,OAKA Spiros Louis,Arsenal,1-3,38.9953683,21.9877132,Greece
+Group stage,1998-12-09,Kaiserslautern,HJK Helsinki,Germany,Finland,5,2,,,Fritz-Walter,Kaiserslautern,5-2,49.4948288,7.9240823,"Fritz-Walter, Germany"
+Group stage,1998-12-09,Lens,Dynamo Kyiv,France,Ukraine,1,3,,,Stade Félix-Bollaert,Dynamo Kyiv,1-3,50.43281,2.8149878,"Stade Félix-Bollaert, France"
+Group stage,1998-12-09,Porto,Ajax,Portugal,Netherlands,3,0,,,Estádio das Antas,Porto,3-0,41.1618235,-8.5837492,"Estádio das Antas, Portugal"
+Group stage,1998-12-09,Athletic Club,Galatasaray,Spain,Turkey,1,0,,,Estadio de San Mamés,Athletic Club,1-0,39.3260685,-4.8379791,Spain
+Group stage,1998-12-09,Manchester Utd,Bayern Munich,England,Germany,1,1,,,Old Trafford,,1-1,53.4631095,-2.2913865,"Old Trafford, England"
+Group stage,1998-12-09,PSV,Benfica,Netherlands,Portugal,2,2,,,PSV Stadion,,2-2,51.4412669,5.468626,"PSV Stadion, Netherlands"
+Group stage,1998-12-09,Croatia Zagreb,Olympiacos,Croatia,Greece,1,1,,,Stadion Maksimir,,1-1,45.8186879,16.0179376,"Stadion Maksimir, Croatia"
+Group stage,1998-12-09,Juventus,Rosenborg,Italy,Norway,2,0,,,Delle Alpi,Juventus,2-0,46.2617049,10.59038,"Delle Alpi, Italy"
+Group stage,1998-12-09,Brøndby,Barcelona,Denmark,Spain,0,2,,,FC København Stadium,Barcelona,0-2,55.670249,10.3333283,Denmark
+Group stage,1998-12-09,Real Madrid,Spartak Moscow,Spain,Russia,2,1,,,Estadio Santiago Bernabéu,Real Madrid,2-1,40.4521778,-3.6876573,"Estadio Santiago Bernabéu, Spain"
+Group stage,1998-12-09,Sturm Graz,Inter,Austria,Italy,0,2,,,Stadion Graz Liebenau,Inter,0-2,47.0463666,15.454008,"Stadion Graz Liebenau, Austria"
+Quarter-finals,1999-03-03,Real Madrid,Dynamo Kyiv,Spain,Ukraine,1,1,,,Estadio Santiago Bernabéu,,1-1,40.4521778,-3.6876573,"Estadio Santiago Bernabéu, Spain"
+Quarter-finals,1999-03-03,Juventus,Olympiacos,Italy,Greece,2,1,,,Delle Alpi,Juventus,2-1,46.2617049,10.59038,"Delle Alpi, Italy"
+Quarter-finals,1999-03-03,Manchester Utd,Inter,England,Italy,2,0,,,Old Trafford,Manchester Utd,2-0,53.4631095,-2.2913865,"Old Trafford, England"
+Quarter-finals,1999-03-03,Bayern Munich,Kaiserslautern,Germany,Germany,2,0,,,Olympiastadion,Bayern Munich,2-0,52.5145846,13.2398144,"Olympiastadion, Germany"
+Quarter-finals,1999-03-17,Kaiserslautern,Bayern Munich,Germany,Germany,0,4,,,Fritz-Walter,Bayern Munich,0-4,49.4948288,7.9240823,"Fritz-Walter, Germany"
+Quarter-finals,1999-03-17,Inter,Manchester Utd,Italy,England,1,1,,,Stadio Giuseppe Meazza,,1-1,45.4782003,9.123964,"Stadio Giuseppe Meazza, Italy"
+Quarter-finals,1999-03-17,Olympiacos,Juventus,Greece,Italy,1,1,,,OAKA Spiros Louis,,1-1,38.9953683,21.9877132,Greece
+Quarter-finals,1999-03-17,Dynamo Kyiv,Real Madrid,Ukraine,Spain,2,0,,,Stadion Dynamo im. Valeriy Lobanovskiy,Dynamo Kyiv,2-0,49.4871968,31.2718321,Ukraine
+Semi-finals,1999-04-07,Dynamo Kyiv,Bayern Munich,Ukraine,Germany,3,3,,,Stadion Dynamo im. Valeriy Lobanovskiy,,3-3,49.4871968,31.2718321,Ukraine
+Semi-finals,1999-04-07,Manchester Utd,Juventus,England,Italy,1,1,,,Old Trafford,,1-1,53.4631095,-2.2913865,"Old Trafford, England"
+Semi-finals,1999-04-21,Bayern Munich,Dynamo Kyiv,Germany,Ukraine,1,0,,,Olympiastadion,Bayern Munich,1-0,52.5145846,13.2398144,"Olympiastadion, Germany"
+Semi-finals,1999-04-21,Juventus,Manchester Utd,Italy,England,2,3,,,Delle Alpi,Manchester Utd,2-3,46.2617049,10.59038,"Delle Alpi, Italy"
+Final,1999-05-26,Manchester Utd,Bayern Munich,England,Germany,2,1,,,Camp Nou (Neutral Site),Manchester Utd,2-1,41.3807673,2.1158684,Camp Nou 

@@ -1,0 +1,126 @@
+round_of_comp,date,home_team,away_team,home_nation,away_nation,home_goals,away_goals,home_penalties,away_penalties,venue,winning_team,result_90_min,latitude,longitude,location
+Group stage,2020-10-20,Dynamo Kyiv,Juventus,Ukraine,Italy,0,2,,,NSK Olimpijs'kyj,Juventus,0-2,49.4871968,31.2718321,Ukraine
+Group stage,2020-10-20,Zenit,Club Brugge,Russia,Belgium,1,2,,,Gazprom Arena,Club Brugge,1-2,59.9723766,30.2210608,"Gazprom Arena, Russia"
+Group stage,2020-10-20,Chelsea,Sevilla,England,Spain,0,0,,,Stamford Bridge,,0-0,51.4816869,-0.1910336,"Stamford Bridge, England"
+Group stage,2020-10-20,RB Leipzig,Başakşehir,Germany,Turkey,2,0,,,Red Bull Arena,RB Leipzig,2-0,51.3457079,12.3482361,"Red Bull Arena, Germany"
+Group stage,2020-10-20,Barcelona,Ferencváros,Spain,Hungary,5,1,,,Camp Nou,Barcelona,5-1,41.3808046,2.1158872,"Camp Nou, Spain"
+Group stage,2020-10-20,Lazio,Dortmund,Italy,Germany,3,1,,,Stadio Olimpico,Lazio,3-1,41.9339424,12.4547705,"Stadio Olimpico, Italy"
+Group stage,2020-10-20,Paris S-G,Manchester Utd,France,England,1,2,,,Parc des Princes,Manchester Utd,1-2,48.8413634,2.2530693,"Parc des Princes, France"
+Group stage,2020-10-20,Rennes,Krasnodar,France,Russia,1,1,,,Roazhon Park,,1-1,48.1075655,-1.7126543,"Roazhon Park, France"
+Group stage,2020-10-21,RB Salzburg,Loko Moscow,Austria,Russia,2,2,,,Red Bull Arena,,2-2,47.8163956,12.9982439,"Red Bull Arena, Austria"
+Group stage,2020-10-21,Real Madrid,Shakhtar,Spain,Ukraine,2,3,,,Estadio Alfredo Di Stéfano,Shakhtar,2-3,40.4769374,-3.6150611,"Estadio Alfredo Di Stéfano, Spain"
+Group stage,2020-10-21,Manchester City,Porto,England,Portugal,3,1,,,Etihad Stadium,Manchester City,3-1,53.4831448,-2.2005273,"Etihad Stadium, England"
+Group stage,2020-10-21,Inter,Gladbach,Italy,Germany,2,2,,,Stadio Giuseppe Meazza,,2-2,45.4782003,9.123964,"Stadio Giuseppe Meazza, Italy"
+Group stage,2020-10-21,Bayern Munich,Atlético Madrid,Germany,Spain,4,0,,,Allianz Arena,Bayern Munich,4-0,48.2187901,11.6236227,"Allianz Arena, Germany"
+Group stage,2020-10-21,Ajax,Liverpool,Netherlands,England,0,1,,,Johan Cruyff ArenA,Liverpool,0-1,52.2434979,5.6343227,Netherlands
+Group stage,2020-10-21,Midtjylland,Atalanta,Denmark,Italy,0,4,,,MCH Arena,Atalanta,0-4,56.1167905,8.9517849,"MCH Arena, Denmark"
+Group stage,2020-10-21,Olympiacos,Marseille,Greece,France,1,0,,,Stadio Georgios Karaiskáki,Olympiacos,1-0,38.9953683,21.9877132,Greece
+Group stage,2020-10-27,Shakhtar,Inter,Ukraine,Italy,0,0,,,Oblasny SportKomplex Metalist,,0-0,49.4871968,31.2718321,Ukraine
+Group stage,2020-10-27,Porto,Olympiacos,Portugal,Greece,2,0,,,Estádio Do Dragão,Porto,2-0,41.1618235,-8.5837492,"Estádio Do Dragão, Portugal"
+Group stage,2020-10-27,Liverpool,Midtjylland,England,Denmark,2,0,,,Anfield,Liverpool,2-0,53.4309164,-2.9609314,"Anfield, England"
+Group stage,2020-10-27,Loko Moscow,Bayern Munich,Russia,Germany,1,2,,,RZD Arena,Bayern Munich,1-2,55.8035807,37.7412162,"RZD Arena, Russia"
+Group stage,2020-10-27,Atlético Madrid,RB Salzburg,Spain,Austria,3,2,,,Estadio Wanda Metropolitano,Atlético Madrid,3-2,39.3260685,-4.8379791,Spain
+Group stage,2020-10-27,Atalanta,Ajax,Italy,Netherlands,2,2,,,Stadio Atleti Azzurri d'Italia,,2-2,45.6226887,13.7926383,"Stadio Atleti Azzurri d'Italia, Italy"
+Group stage,2020-10-27,Marseille,Manchester City,France,England,0,3,,,Orange Vélodrome,Manchester City,0-3,43.269835,5.3959117,"Orange Vélodrome, France"
+Group stage,2020-10-27,Gladbach,Real Madrid,Germany,Spain,2,2,,,Stadion im Borussia-Park,,2-2,51.174625,6.3854094,"Stadion im Borussia-Park, Germany"
+Group stage,2020-10-28,Manchester Utd,RB Leipzig,England,Germany,5,0,,,Old Trafford,Manchester Utd,5-0,53.4631095,-2.2913865,"Old Trafford, England"
+Group stage,2020-10-28,Krasnodar,Chelsea,Russia,England,0,4,,,Krasnodar Stadium,Chelsea,0-4,45.0444271,39.0284043,"Krasnodar Stadium, Russia"
+Group stage,2020-10-28,Başakşehir,Paris S-G,Turkey,France,0,2,,,Başakşehir Fatih Terim Stadium,Paris S-G,0-2,41.1228067,28.8093852,"Başakşehir Fatih Terim Stadium, Turkey"
+Group stage,2020-10-28,Juventus,Barcelona,Italy,Spain,0,2,,,Allianz Stadium,Barcelona,0-2,45.1095759,7.6421338,"Allianz Stadium, Italy"
+Group stage,2020-10-28,Club Brugge,Lazio,Belgium,Italy,1,1,,,Jan Breydelstadion,,1-1,51.1933461,3.1805853,"Jan Breydelstadion, Belgium"
+Group stage,2020-10-28,Ferencváros,Dynamo Kyiv,Hungary,Ukraine,2,2,,,Groupama Arena,,2-2,47.4754047,19.0952134,"Groupama Arena, Hungary"
+Group stage,2020-10-28,Dortmund,Zenit,Germany,Russia,2,0,,,Signal Iduna Park,Dortmund,2-0,51.4924922,7.4518549,"Signal Iduna Park, Germany"
+Group stage,2020-10-28,Sevilla,Rennes,Spain,France,1,0,,,Estadio Ramón Sánchez Pizjuán,Sevilla,1-0,37.3840876,-5.9706309,"Estadio Ramón Sánchez Pizjuán, Spain"
+Group stage,2020-11-03,Shakhtar,Gladbach,Ukraine,Germany,0,6,,,Oblasny SportKomplex Metalist,Gladbach,0-6,49.4871968,31.2718321,Ukraine
+Group stage,2020-11-03,Porto,Marseille,Portugal,France,3,0,,,Estádio Do Dragão,Porto,3-0,41.1618235,-8.5837492,"Estádio Do Dragão, Portugal"
+Group stage,2020-11-03,Manchester City,Olympiacos,England,Greece,3,0,,,Etihad Stadium,Manchester City,3-0,53.4831448,-2.2005273,"Etihad Stadium, England"
+Group stage,2020-11-03,Loko Moscow,Atlético Madrid,Russia,Spain,1,1,,,RZD Arena,,1-1,55.8035807,37.7412162,"RZD Arena, Russia"
+Group stage,2020-11-03,Midtjylland,Ajax,Denmark,Netherlands,1,2,,,MCH Arena,Ajax,1-2,56.1167905,8.9517849,"MCH Arena, Denmark"
+Group stage,2020-11-03,RB Salzburg,Bayern Munich,Austria,Germany,2,6,,,Red Bull Arena,Bayern Munich,2-6,47.8163956,12.9982439,"Red Bull Arena, Austria"
+Group stage,2020-11-03,Atalanta,Liverpool,Italy,England,0,5,,,Stadio Atleti Azzurri d'Italia,Liverpool,0-5,45.6226887,13.7926383,"Stadio Atleti Azzurri d'Italia, Italy"
+Group stage,2020-11-03,Real Madrid,Inter,Spain,Italy,3,2,,,Estadio Alfredo Di Stéfano,Real Madrid,3-2,40.4769374,-3.6150611,"Estadio Alfredo Di Stéfano, Spain"
+Group stage,2020-11-04,Chelsea,Rennes,England,France,3,0,,,Stamford Bridge,Chelsea,3-0,51.4816869,-0.1910336,"Stamford Bridge, England"
+Group stage,2020-11-04,Başakşehir,Manchester Utd,Turkey,England,2,1,,,Başakşehir Fatih Terim Stadium,Başakşehir,2-1,41.1228067,28.8093852,"Başakşehir Fatih Terim Stadium, Turkey"
+Group stage,2020-11-04,Zenit,Lazio,Russia,Italy,1,1,,,Gazprom Arena,,1-1,59.9723766,30.2210608,"Gazprom Arena, Russia"
+Group stage,2020-11-04,Ferencváros,Juventus,Hungary,Italy,1,4,,,Puskás Aréna,Juventus,1-4,47.503109,19.0980509,"Puskás Aréna, Hungary"
+Group stage,2020-11-04,Club Brugge,Dortmund,Belgium,Germany,0,3,,,Jan Breydelstadion,Dortmund,0-3,51.1933461,3.1805853,"Jan Breydelstadion, Belgium"
+Group stage,2020-11-04,Barcelona,Dynamo Kyiv,Spain,Ukraine,2,1,,,Camp Nou,Barcelona,2-1,41.3808046,2.1158872,"Camp Nou, Spain"
+Group stage,2020-11-04,Sevilla,Krasnodar,Spain,Russia,3,2,,,Estadio Ramón Sánchez Pizjuán,Sevilla,3-2,37.3840876,-5.9706309,"Estadio Ramón Sánchez Pizjuán, Spain"
+Group stage,2020-11-04,RB Leipzig,Paris S-G,Germany,France,2,1,,,Red Bull Arena,RB Leipzig,2-1,51.3457079,12.3482361,"Red Bull Arena, Germany"
+Group stage,2020-11-24,Rennes,Chelsea,France,England,1,2,,,Roazhon Park,Chelsea,1-2,48.1075655,-1.7126543,"Roazhon Park, France"
+Group stage,2020-11-24,Manchester Utd,Başakşehir,England,Turkey,4,1,,,Old Trafford,Manchester Utd,4-1,53.4631095,-2.2913865,"Old Trafford, England"
+Group stage,2020-11-24,Krasnodar,Sevilla,Russia,Spain,1,2,,,Krasnodar Stadium,Sevilla,1-2,45.0444271,39.0284043,"Krasnodar Stadium, Russia"
+Group stage,2020-11-24,Dortmund,Club Brugge,Germany,Belgium,3,0,,,Signal Iduna Park,Dortmund,3-0,51.4924922,7.4518549,"Signal Iduna Park, Germany"
+Group stage,2020-11-24,Juventus,Ferencváros,Italy,Hungary,2,1,,,Allianz Stadium,Juventus,2-1,45.1095759,7.6421338,"Allianz Stadium, Italy"
+Group stage,2020-11-24,Paris S-G,RB Leipzig,France,Germany,1,0,,,Parc des Princes,Paris S-G,1-0,48.8413634,2.2530693,"Parc des Princes, France"
+Group stage,2020-11-24,Lazio,Zenit,Italy,Russia,3,1,,,Stadio Olimpico,Lazio,3-1,41.9339424,12.4547705,"Stadio Olimpico, Italy"
+Group stage,2020-11-24,Dynamo Kyiv,Barcelona,Ukraine,Spain,0,4,,,NSK Olimpijs'kyj,Barcelona,0-4,49.4871968,31.2718321,Ukraine
+Group stage,2020-11-25,Gladbach,Shakhtar,Germany,Ukraine,4,0,,,Stadion im Borussia-Park,Gladbach,4-0,51.174625,6.3854094,"Stadion im Borussia-Park, Germany"
+Group stage,2020-11-25,Olympiacos,Manchester City,Greece,England,0,1,,,Stadio Georgios Karaiskáki,Manchester City,0-1,38.9953683,21.9877132,Greece
+Group stage,2020-11-25,Liverpool,Atalanta,England,Italy,0,2,,,Anfield,Atalanta,0-2,53.4309164,-2.9609314,"Anfield, England"
+Group stage,2020-11-25,Ajax,Midtjylland,Netherlands,Denmark,3,1,,,Johan Cruyff ArenA,Ajax,3-1,52.2434979,5.6343227,Netherlands
+Group stage,2020-11-25,Inter,Real Madrid,Italy,Spain,0,2,,,Stadio Giuseppe Meazza,Real Madrid,0-2,45.4782003,9.123964,"Stadio Giuseppe Meazza, Italy"
+Group stage,2020-11-25,Marseille,Porto,France,Portugal,0,2,,,Orange Vélodrome,Porto,0-2,43.269835,5.3959117,"Orange Vélodrome, France"
+Group stage,2020-11-25,Atlético Madrid,Loko Moscow,Spain,Russia,0,0,,,Estadio Wanda Metropolitano,,0-0,39.3260685,-4.8379791,Spain
+Group stage,2020-11-25,Bayern Munich,RB Salzburg,Germany,Austria,3,1,,,Allianz Arena,Bayern Munich,3-1,48.2187901,11.6236227,"Allianz Arena, Germany"
+Group stage,2020-12-01,Shakhtar,Real Madrid,Ukraine,Spain,2,0,,,Oblasny SportKomplex Metalist,Shakhtar,2-0,49.4871968,31.2718321,Ukraine
+Group stage,2020-12-01,Liverpool,Ajax,England,Netherlands,1,0,,,Anfield,Liverpool,1-0,53.4309164,-2.9609314,"Anfield, England"
+Group stage,2020-12-01,Porto,Manchester City,Portugal,England,0,0,,,Estádio Do Dragão,,0-0,41.1618235,-8.5837492,"Estádio Do Dragão, Portugal"
+Group stage,2020-12-01,Loko Moscow,RB Salzburg,Russia,Austria,1,3,,,RZD Arena,RB Salzburg,1-3,55.8035807,37.7412162,"RZD Arena, Russia"
+Group stage,2020-12-01,Gladbach,Inter,Germany,Italy,2,3,,,Stadion im Borussia-Park,Inter,2-3,51.174625,6.3854094,"Stadion im Borussia-Park, Germany"
+Group stage,2020-12-01,Marseille,Olympiacos,France,Greece,2,1,,,Orange Vélodrome,Marseille,2-1,43.269835,5.3959117,"Orange Vélodrome, France"
+Group stage,2020-12-01,Atalanta,Midtjylland,Italy,Denmark,1,1,,,Stadio Atleti Azzurri d'Italia,,1-1,45.6226887,13.7926383,"Stadio Atleti Azzurri d'Italia, Italy"
+Group stage,2020-12-01,Atlético Madrid,Bayern Munich,Spain,Germany,1,1,,,Estadio Wanda Metropolitano,,1-1,39.3260685,-4.8379791,Spain
+Group stage,2020-12-02,Manchester Utd,Paris S-G,England,France,1,3,,,Old Trafford,Paris S-G,1-3,53.4631095,-2.2913865,"Old Trafford, England"
+Group stage,2020-12-02,Krasnodar,Rennes,Russia,France,1,0,,,Krasnodar Stadium,Krasnodar,1-0,45.0444271,39.0284043,"Krasnodar Stadium, Russia"
+Group stage,2020-12-02,Başakşehir,RB Leipzig,Turkey,Germany,3,4,,,Başakşehir Fatih Terim Stadium,RB Leipzig,3-4,41.1228067,28.8093852,"Başakşehir Fatih Terim Stadium, Turkey"
+Group stage,2020-12-02,Juventus,Dynamo Kyiv,Italy,Ukraine,3,0,,,Allianz Stadium,Juventus,3-0,45.1095759,7.6421338,"Allianz Stadium, Italy"
+Group stage,2020-12-02,Dortmund,Lazio,Germany,Italy,1,1,,,Signal Iduna Park,,1-1,51.4924922,7.4518549,"Signal Iduna Park, Germany"
+Group stage,2020-12-02,Club Brugge,Zenit,Belgium,Russia,3,0,,,Jan Breydelstadion,Club Brugge,3-0,51.1933461,3.1805853,"Jan Breydelstadion, Belgium"
+Group stage,2020-12-02,Ferencváros,Barcelona,Hungary,Spain,0,3,,,Puskás Aréna,Barcelona,0-3,47.503109,19.0980509,"Puskás Aréna, Hungary"
+Group stage,2020-12-02,Sevilla,Chelsea,Spain,England,0,4,,,Estadio Ramón Sánchez Pizjuán,Chelsea,0-4,37.3840876,-5.9706309,"Estadio Ramón Sánchez Pizjuán, Spain"
+Group stage,2020-12-08,Lazio,Club Brugge,Italy,Belgium,2,2,,,Stadio Olimpico,,2-2,41.9339424,12.4547705,"Stadio Olimpico, Italy"
+Group stage,2020-12-08,Chelsea,Krasnodar,England,Russia,1,1,,,Stamford Bridge,,1-1,51.4816869,-0.1910336,"Stamford Bridge, England"
+Group stage,2020-12-08,Zenit,Dortmund,Russia,Germany,1,2,,,Gazprom Arena,Dortmund,1-2,59.9723766,30.2210608,"Gazprom Arena, Russia"
+Group stage,2020-12-08,RB Leipzig,Manchester Utd,Germany,England,3,2,,,Red Bull Arena,RB Leipzig,3-2,51.3457079,12.3482361,"Red Bull Arena, Germany"
+Group stage,2020-12-08,Barcelona,Juventus,Spain,Italy,0,3,,,Camp Nou,Juventus,0-3,41.3808046,2.1158872,"Camp Nou, Spain"
+Group stage,2020-12-08,Rennes,Sevilla,France,Spain,1,3,,,Roazhon Park,Sevilla,1-3,48.1075655,-1.7126543,"Roazhon Park, France"
+Group stage,2020-12-08,Dynamo Kyiv,Ferencváros,Ukraine,Hungary,1,0,,,NSK Olimpijs'kyj,Dynamo Kyiv,1-0,49.4871968,31.2718321,Ukraine
+Group stage,2020-12-09,Paris S-G,Başakşehir,France,Turkey,5,1,,,Parc des Princes,Paris S-G,5-1,48.8413634,2.2530693,"Parc des Princes, France"
+Group stage,2020-12-09,Midtjylland,Liverpool,Denmark,England,1,1,,,MCH Arena,,1-1,56.1167905,8.9517849,"MCH Arena, Denmark"
+Group stage,2020-12-09,Ajax,Atalanta,Netherlands,Italy,0,1,,,Johan Cruyff ArenA,Atalanta,0-1,52.2434979,5.6343227,Netherlands
+Group stage,2020-12-09,Manchester City,Marseille,England,France,3,0,,,Etihad Stadium,Manchester City,3-0,53.4831448,-2.2005273,"Etihad Stadium, England"
+Group stage,2020-12-09,Inter,Shakhtar,Italy,Ukraine,0,0,,,Stadio Giuseppe Meazza,,0-0,45.4782003,9.123964,"Stadio Giuseppe Meazza, Italy"
+Group stage,2020-12-09,Real Madrid,Gladbach,Spain,Germany,2,0,,,Estadio Alfredo Di Stéfano,Real Madrid,2-0,40.4769374,-3.6150611,"Estadio Alfredo Di Stéfano, Spain"
+Group stage,2020-12-09,Bayern Munich,Loko Moscow,Germany,Russia,2,0,,,Allianz Arena,Bayern Munich,2-0,48.2187901,11.6236227,"Allianz Arena, Germany"
+Group stage,2020-12-09,RB Salzburg,Atlético Madrid,Austria,Spain,0,2,,,Red Bull Arena,Atlético Madrid,0-2,47.8163956,12.9982439,"Red Bull Arena, Austria"
+Group stage,2020-12-09,Olympiacos,Porto,Greece,Portugal,0,2,,,Stadio Georgios Karaiskáki,Porto,0-2,38.9953683,21.9877132,Greece
+Round of 16,2021-02-16,Barcelona,Paris S-G,Spain,France,1,4,,,Camp Nou,Paris S-G,1-4,41.3808046,2.1158872,"Camp Nou, Spain"
+Round of 16,2021-02-16,RB Leipzig,Liverpool,Germany,England,0,2,,,Puskás Aréna (Neutral Site),Liverpool,0-2,47.503109,19.0980509,Puskás Aréna 
+Round of 16,2021-02-17,Porto,Juventus,Portugal,Italy,2,1,,,Estádio Do Dragão,Porto,2-1,41.1618235,-8.5837492,"Estádio Do Dragão, Portugal"
+Round of 16,2021-02-17,Sevilla,Dortmund,Spain,Germany,2,3,,,Estadio Ramón Sánchez Pizjuán,Dortmund,2-3,37.3840876,-5.9706309,"Estadio Ramón Sánchez Pizjuán, Spain"
+Round of 16,2021-02-23,Lazio,Bayern Munich,Italy,Germany,1,4,,,Stadio Olimpico,Bayern Munich,1-4,41.9339424,12.4547705,"Stadio Olimpico, Italy"
+Round of 16,2021-02-23,Atlético Madrid,Chelsea,Spain,England,0,1,,,Arena Naţională (Neutral Site),Chelsea,0-1,44.4372494,26.1524758,Arena Naţională 
+Round of 16,2021-02-24,Atalanta,Real Madrid,Italy,Spain,0,1,,,Stadio Atleti Azzurri d'Italia,Real Madrid,0-1,45.6226887,13.7926383,"Stadio Atleti Azzurri d'Italia, Italy"
+Round of 16,2021-02-24,Gladbach,Manchester City,Germany,England,0,2,,,Puskás Aréna (Neutral Site),Manchester City,0-2,47.503109,19.0980509,Puskás Aréna 
+Round of 16,2021-03-09,Juventus,Porto,Italy,Portugal,3,2,,,Allianz Stadium,Juventus,3-2,45.1095759,7.6421338,"Allianz Stadium, Italy"
+Round of 16,2021-03-09,Dortmund,Sevilla,Germany,Spain,2,2,,,Fußballpark BVB Hohenbuschei,,2-2,51.1638175,10.4478313,Germany
+Round of 16,2021-03-10,Liverpool,RB Leipzig,England,Germany,2,0,,,Puskás Aréna (Neutral Site),Liverpool,2-0,47.503109,19.0980509,Puskás Aréna 
+Round of 16,2021-03-10,Paris S-G,Barcelona,France,Spain,1,1,,,Parc des Princes,,1-1,48.8413634,2.2530693,"Parc des Princes, France"
+Round of 16,2021-03-16,Manchester City,Gladbach,England,Germany,2,0,,,Puskás Aréna (Neutral Site),Manchester City,2-0,47.503109,19.0980509,Puskás Aréna 
+Round of 16,2021-03-16,Real Madrid,Atalanta,Spain,Italy,3,1,,,Estadio Alfredo Di Stéfano,Real Madrid,3-1,40.4769374,-3.6150611,"Estadio Alfredo Di Stéfano, Spain"
+Round of 16,2021-03-17,Chelsea,Atlético Madrid,England,Spain,2,0,,,Stamford Bridge,Chelsea,2-0,51.4816869,-0.1910336,"Stamford Bridge, England"
+Round of 16,2021-03-17,Bayern Munich,Lazio,Germany,Italy,2,1,,,Allianz Arena,Bayern Munich,2-1,48.2187901,11.6236227,"Allianz Arena, Germany"
+Quarter-finals,2021-04-06,Manchester City,Dortmund,England,Germany,2,1,,,Etihad Stadium,Manchester City,2-1,53.4831448,-2.2005273,"Etihad Stadium, England"
+Quarter-finals,2021-04-06,Real Madrid,Liverpool,Spain,England,3,1,,,Estadio Alfredo Di Stéfano,Real Madrid,3-1,40.4769374,-3.6150611,"Estadio Alfredo Di Stéfano, Spain"
+Quarter-finals,2021-04-07,Porto,Chelsea,Portugal,England,0,2,,,Estadio Ramón Sánchez Pizjuán (Neutral Site),Chelsea,0-2,37.3840876,-5.9706309,Estadio Ramón Sánchez Pizjuán 
+Quarter-finals,2021-04-07,Bayern Munich,Paris S-G,Germany,France,2,3,,,Allianz Arena,Paris S-G,2-3,48.2187901,11.6236227,"Allianz Arena, Germany"
+Quarter-finals,2021-04-13,Chelsea,Porto,England,Portugal,0,1,,,Estadio Ramón Sánchez Pizjuán (Neutral Site),Porto,0-1,37.3840876,-5.9706309,Estadio Ramón Sánchez Pizjuán 
+Quarter-finals,2021-04-13,Paris S-G,Bayern Munich,France,Germany,0,1,,,Parc des Princes,Bayern Munich,0-1,48.8413634,2.2530693,"Parc des Princes, France"
+Quarter-finals,2021-04-14,Liverpool,Real Madrid,England,Spain,0,0,,,Anfield,,0-0,53.4309164,-2.9609314,"Anfield, England"
+Quarter-finals,2021-04-14,Dortmund,Manchester City,Germany,England,1,2,,,Signal Iduna Park,Manchester City,1-2,51.4924922,7.4518549,"Signal Iduna Park, Germany"
+Semi-finals,2021-04-27,Real Madrid,Chelsea,Spain,England,1,1,,,Estadio Alfredo Di Stéfano,,1-1,40.4769374,-3.6150611,"Estadio Alfredo Di Stéfano, Spain"
+Semi-finals,2021-04-28,Paris S-G,Manchester City,France,England,1,2,,,Parc des Princes,Manchester City,1-2,48.8413634,2.2530693,"Parc des Princes, France"
+Semi-finals,2021-05-04,Manchester City,Paris S-G,England,France,2,0,,,Etihad Stadium,Manchester City,2-0,53.4831448,-2.2005273,"Etihad Stadium, England"
+Semi-finals,2021-05-05,Chelsea,Real Madrid,England,Spain,2,0,,,Stamford Bridge,Chelsea,2-0,51.4816869,-0.1910336,"Stamford Bridge, England"
+Final,2021-05-29,Manchester City,Chelsea,England,England,0,1,,,Estádio Do Dragão (Neutral Site),Chelsea,0-1,41.1618235,-8.5837492,Estádio Do Dragão 
