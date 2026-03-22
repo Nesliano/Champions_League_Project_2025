@@ -1,0 +1,126 @@
+round_of_comp,date,home_team,away_team,home_nation,away_nation,home_goals,away_goals,home_penalties,away_penalties,venue,winning_team,result_90_min
+Group stage,2021-09-14,Young Boys,Manchester Utd,Switzerland,England,2,1,,,Wankdorfstadion,Young Boys,2-1
+Group stage,2021-09-14,Sevilla,RB Salzburg,Spain,Austria,1,1,,,Estadio Ramón Sánchez Pizjuán,,1-1
+Group stage,2021-09-14,Chelsea,Zenit,England,Russia,1,0,,,Stamford Bridge,Chelsea,1-0
+Group stage,2021-09-14,Villarreal,Atalanta,Spain,Italy,2,2,,,Estadio de la Cerámica,,2-2
+Group stage,2021-09-14,Lille,Wolfsburg,France,Germany,0,0,,,Stade Pierre-Mauroy,,0-0
+Group stage,2021-09-14,Barcelona,Bayern Munich,Spain,Germany,0,3,,,Camp Nou,Bayern Munich,0-3
+Group stage,2021-09-14,Malmö,Juventus,Sweden,Italy,0,3,,,Eleda Stadion,Juventus,0-3
+Group stage,2021-09-14,Dynamo Kyiv,Benfica,Ukraine,Portugal,0,0,,,NSK Olimpijs'kyj,,0-0
+Group stage,2021-09-15,Beşiktaş,Dortmund,Turkey,Germany,1,2,,,Vodafone Arena,Dortmund,1-2
+Group stage,2021-09-15,Sheriff Tiraspol,Shakhtar,Moldova,Ukraine,2,0,,,Bolshaya Sportivnaya Arena,Sheriff Tiraspol,2-0
+Group stage,2021-09-15,Liverpool,Milan,England,Italy,3,2,,,Anfield,Liverpool,3-2
+Group stage,2021-09-15,Sporting CP,Ajax,Portugal,Netherlands,1,5,,,Estádio José Alvalade,Ajax,1-5
+Group stage,2021-09-15,Manchester City,RB Leipzig,England,Germany,6,3,,,Etihad Stadium,Manchester City,6-3
+Group stage,2021-09-15,Inter,Real Madrid,Italy,Spain,0,1,,,Stadio Giuseppe Meazza,Real Madrid,0-1
+Group stage,2021-09-15,Club Brugge,Paris S-G,Belgium,France,1,1,,,Jan Breydelstadion,,1-1
+Group stage,2021-09-15,Atlético Madrid,Porto,Spain,Portugal,0,0,,,Estadio Wanda Metropolitano,,0-0
+Group stage,2021-09-28,Ajax,Beşiktaş,Netherlands,Turkey,2,0,,,Johan Cruyff ArenA,Ajax,2-0
+Group stage,2021-09-28,Shakhtar,Inter,Ukraine,Italy,0,0,,,NSK Olimpijs'kyj,,0-0
+Group stage,2021-09-28,Porto,Liverpool,Portugal,England,1,5,,,Estádio Do Dragão,Liverpool,1-5
+Group stage,2021-09-28,Dortmund,Sporting CP,Germany,Portugal,1,0,,,Signal Iduna Park,Dortmund,1-0
+Group stage,2021-09-28,RB Leipzig,Club Brugge,Germany,Belgium,1,2,,,Red Bull Arena,Club Brugge,1-2
+Group stage,2021-09-28,Real Madrid,Sheriff Tiraspol,Spain,Moldova,1,2,,,Estadio Santiago Bernabéu,Sheriff Tiraspol,1-2
+Group stage,2021-09-28,Paris S-G,Manchester City,France,England,2,0,,,Parc des Princes,Paris S-G,2-0
+Group stage,2021-09-28,Milan,Atlético Madrid,Italy,Spain,1,2,,,Stadio Giuseppe Meazza,Atlético Madrid,1-2
+Group stage,2021-09-29,Atalanta,Young Boys,Italy,Switzerland,1,0,,,Stadio Atleti Azzurri d'Italia,Atalanta,1-0
+Group stage,2021-09-29,Zenit,Malmö,Russia,Sweden,4,0,,,Gazprom Arena,Zenit,4-0
+Group stage,2021-09-29,Benfica,Barcelona,Portugal,Spain,3,0,,,Estádio do Sport Lisboa e Benfica,Benfica,3-0
+Group stage,2021-09-29,Manchester Utd,Villarreal,England,Spain,2,1,,,Old Trafford,Manchester Utd,2-1
+Group stage,2021-09-29,Bayern Munich,Dynamo Kyiv,Germany,Ukraine,5,0,,,Allianz Arena,Bayern Munich,5-0
+Group stage,2021-09-29,RB Salzburg,Lille,Austria,France,2,1,,,Red Bull Arena,RB Salzburg,2-1
+Group stage,2021-09-29,Juventus,Chelsea,Italy,England,1,0,,,Allianz Stadium,Juventus,1-0
+Group stage,2021-09-29,Wolfsburg,Sevilla,Germany,Spain,1,1,,,Volkswagen Arena,,1-1
+Group stage,2021-10-19,Club Brugge,Manchester City,Belgium,England,1,5,,,Jan Breydelstadion,Manchester City,1-5
+Group stage,2021-10-19,Beşiktaş,Sporting CP,Turkey,Portugal,1,4,,,Vodafone Arena,Sporting CP,1-4
+Group stage,2021-10-19,Porto,Milan,Portugal,Italy,1,0,,,Estádio Do Dragão,Porto,1-0
+Group stage,2021-10-19,Inter,Sheriff Tiraspol,Italy,Moldova,3,1,,,Stadio Giuseppe Meazza,Inter,3-1
+Group stage,2021-10-19,Paris S-G,RB Leipzig,France,Germany,3,2,,,Parc des Princes,Paris S-G,3-2
+Group stage,2021-10-19,Ajax,Dortmund,Netherlands,Germany,4,0,,,Johan Cruyff ArenA,Ajax,4-0
+Group stage,2021-10-19,Atlético Madrid,Liverpool,Spain,England,2,3,,,Estadio Wanda Metropolitano,Liverpool,2-3
+Group stage,2021-10-19,Shakhtar,Real Madrid,Ukraine,Spain,0,5,,,Oblasny SportKomplex Metalist,Real Madrid,0-5
+Group stage,2021-10-20,Barcelona,Dynamo Kyiv,Spain,Ukraine,1,0,,,Camp Nou,Barcelona,1-0
+Group stage,2021-10-20,RB Salzburg,Wolfsburg,Austria,Germany,3,1,,,Red Bull Arena,RB Salzburg,3-1
+Group stage,2021-10-20,Manchester Utd,Atalanta,England,Italy,3,2,,,Old Trafford,Manchester Utd,3-2
+Group stage,2021-10-20,Benfica,Bayern Munich,Portugal,Germany,0,4,,,Estádio do Sport Lisboa e Benfica,Bayern Munich,0-4
+Group stage,2021-10-20,Chelsea,Malmö,England,Sweden,4,0,,,Stamford Bridge,Chelsea,4-0
+Group stage,2021-10-20,Young Boys,Villarreal,Switzerland,Spain,1,4,,,Wankdorfstadion,Villarreal,1-4
+Group stage,2021-10-20,Lille,Sevilla,France,Spain,0,0,,,Stade Pierre-Mauroy,,0-0
+Group stage,2021-10-20,Zenit,Juventus,Russia,Italy,0,1,,,Gazprom Arena,Juventus,0-1
+Group stage,2021-11-02,Wolfsburg,RB Salzburg,Germany,Austria,2,1,,,Volkswagen Arena,Wolfsburg,2-1
+Group stage,2021-11-02,Malmö,Chelsea,Sweden,England,0,1,,,Eleda Stadion,Chelsea,0-1
+Group stage,2021-11-02,Villarreal,Young Boys,Spain,Switzerland,2,0,,,Estadio de la Cerámica,Villarreal,2-0
+Group stage,2021-11-02,Bayern Munich,Benfica,Germany,Portugal,5,2,,,Allianz Arena,Bayern Munich,5-2
+Group stage,2021-11-02,Juventus,Zenit,Italy,Russia,4,2,,,Allianz Stadium,Juventus,4-2
+Group stage,2021-11-02,Atalanta,Manchester Utd,Italy,England,2,2,,,Stadio Atleti Azzurri d'Italia,,2-2
+Group stage,2021-11-02,Sevilla,Lille,Spain,France,1,2,,,Estadio Ramón Sánchez Pizjuán,Lille,1-2
+Group stage,2021-11-02,Dynamo Kyiv,Barcelona,Ukraine,Spain,0,1,,,NSK Olimpijs'kyj,Barcelona,0-1
+Group stage,2021-11-03,Milan,Porto,Italy,Portugal,1,1,,,Stadio Giuseppe Meazza,,1-1
+Group stage,2021-11-03,Real Madrid,Shakhtar,Spain,Ukraine,2,1,,,Estadio Santiago Bernabéu,Real Madrid,2-1
+Group stage,2021-11-03,Liverpool,Atlético Madrid,England,Spain,2,0,,,Anfield,Liverpool,2-0
+Group stage,2021-11-03,Sporting CP,Beşiktaş,Portugal,Turkey,4,0,,,Estádio José Alvalade,Sporting CP,4-0
+Group stage,2021-11-03,Manchester City,Club Brugge,England,Belgium,4,1,,,Etihad Stadium,Manchester City,4-1
+Group stage,2021-11-03,Dortmund,Ajax,Germany,Netherlands,1,3,,,Signal Iduna Park,Ajax,1-3
+Group stage,2021-11-03,RB Leipzig,Paris S-G,Germany,France,2,2,,,Red Bull Arena,,2-2
+Group stage,2021-11-03,Sheriff Tiraspol,Inter,Moldova,Italy,1,3,,,Bolshaya Sportivnaya Arena,Inter,1-3
+Group stage,2021-11-23,Villarreal,Manchester Utd,Spain,England,0,2,,,Estadio de la Cerámica,Manchester Utd,0-2
+Group stage,2021-11-23,Dynamo Kyiv,Bayern Munich,Ukraine,Germany,1,2,,,NSK Olimpijs'kyj,Bayern Munich,1-2
+Group stage,2021-11-23,Chelsea,Juventus,England,Italy,4,0,,,Stamford Bridge,Chelsea,4-0
+Group stage,2021-11-23,Malmö,Zenit,Sweden,Russia,1,1,,,Eleda Stadion,,1-1
+Group stage,2021-11-23,Sevilla,Wolfsburg,Spain,Germany,2,0,,,Estadio Ramón Sánchez Pizjuán,Sevilla,2-0
+Group stage,2021-11-23,Lille,RB Salzburg,France,Austria,1,0,,,Stade Pierre-Mauroy,Lille,1-0
+Group stage,2021-11-23,Young Boys,Atalanta,Switzerland,Italy,3,3,,,Stade de Suisse Wankdorf Bern,,3-3
+Group stage,2021-11-23,Barcelona,Benfica,Spain,Portugal,0,0,,,Camp Nou,,0-0
+Group stage,2021-11-24,Inter,Shakhtar,Italy,Ukraine,2,0,,,Stadio Giuseppe Meazza,Inter,2-0
+Group stage,2021-11-24,Liverpool,Porto,England,Portugal,2,0,,,Anfield,Liverpool,2-0
+Group stage,2021-11-24,Sporting CP,Dortmund,Portugal,Germany,3,1,,,Estádio José Alvalade,Sporting CP,3-1
+Group stage,2021-11-24,Manchester City,Paris S-G,England,France,2,1,,,Etihad Stadium,Manchester City,2-1
+Group stage,2021-11-24,Beşiktaş,Ajax,Turkey,Netherlands,1,2,,,Vodafone Arena,Ajax,1-2
+Group stage,2021-11-24,Atlético Madrid,Milan,Spain,Italy,0,1,,,Estadio Wanda Metropolitano,Milan,0-1
+Group stage,2021-11-24,Club Brugge,RB Leipzig,Belgium,Germany,0,5,,,Jan Breydelstadion,RB Leipzig,0-5
+Group stage,2021-11-24,Sheriff Tiraspol,Real Madrid,Moldova,Spain,0,3,,,Bolshaya Sportivnaya Arena,Real Madrid,0-3
+Group stage,2021-12-07,RB Leipzig,Manchester City,Germany,England,2,1,,,Red Bull Arena,RB Leipzig,2-1
+Group stage,2021-12-07,Paris S-G,Club Brugge,France,Belgium,4,1,,,Parc des Princes,Paris S-G,4-1
+Group stage,2021-12-07,Porto,Atlético Madrid,Portugal,Spain,1,3,,,Estádio Do Dragão,Atlético Madrid,1-3
+Group stage,2021-12-07,Ajax,Sporting CP,Netherlands,Portugal,4,2,,,Johan Cruyff ArenA,Ajax,4-2
+Group stage,2021-12-07,Real Madrid,Inter,Spain,Italy,2,0,,,Estadio Santiago Bernabéu,Real Madrid,2-0
+Group stage,2021-12-07,Dortmund,Beşiktaş,Germany,Turkey,5,0,,,Signal Iduna Park,Dortmund,5-0
+Group stage,2021-12-07,Milan,Liverpool,Italy,England,1,2,,,Stadio Giuseppe Meazza,Liverpool,1-2
+Group stage,2021-12-07,Shakhtar,Sheriff Tiraspol,Ukraine,Moldova,1,1,,,Oblasny SportKomplex Metalist,,1-1
+Group stage,2021-12-08,Juventus,Malmö,Italy,Sweden,1,0,,,Allianz Stadium,Juventus,1-0
+Group stage,2021-12-08,Manchester Utd,Young Boys,England,Switzerland,1,1,,,Old Trafford,,1-1
+Group stage,2021-12-08,Benfica,Dynamo Kyiv,Portugal,Ukraine,2,0,,,Estádio do Sport Lisboa e Benfica,Benfica,2-0
+Group stage,2021-12-08,Zenit,Chelsea,Russia,England,3,3,,,Gazprom Arena,,3-3
+Group stage,2021-12-08,RB Salzburg,Sevilla,Austria,Spain,1,0,,,Red Bull Arena,RB Salzburg,1-0
+Group stage,2021-12-08,Bayern Munich,Barcelona,Germany,Spain,3,0,,,Allianz Arena,Bayern Munich,3-0
+Group stage,2021-12-08,Wolfsburg,Lille,Germany,France,1,3,,,Volkswagen Arena,Lille,1-3
+Group stage,2021-12-09,Atalanta,Villarreal,Italy,Spain,2,3,,,Stadio Atleti Azzurri d'Italia,Villarreal,2-3
+Round of 16,2022-02-15,Sporting CP,Manchester City,Portugal,England,0,5,,,Estádio José Alvalade,Manchester City,0-5
+Round of 16,2022-02-15,Paris S-G,Real Madrid,France,Spain,1,0,,,Parc des Princes,Paris S-G,1-0
+Round of 16,2022-02-16,Inter,Liverpool,Italy,England,0,2,,,Stadio Giuseppe Meazza,Liverpool,0-2
+Round of 16,2022-02-16,RB Salzburg,Bayern Munich,Austria,Germany,1,1,,,Red Bull Arena,,1-1
+Round of 16,2022-02-22,Chelsea,Lille,England,France,2,0,,,Stamford Bridge,Chelsea,2-0
+Round of 16,2022-02-22,Villarreal,Juventus,Spain,Italy,1,1,,,Estadio de la Cerámica,,1-1
+Round of 16,2022-02-23,Benfica,Ajax,Portugal,Netherlands,2,2,,,Estádio do Sport Lisboa e Benfica,,2-2
+Round of 16,2022-02-23,Atlético Madrid,Manchester Utd,Spain,England,1,1,,,Estadio Wanda Metropolitano,,1-1
+Round of 16,2022-03-08,Liverpool,Inter,England,Italy,0,1,,,Anfield,Inter,0-1
+Round of 16,2022-03-08,Bayern Munich,RB Salzburg,Germany,Austria,7,1,,,Allianz Arena,Bayern Munich,7-1
+Round of 16,2022-03-09,Manchester City,Sporting CP,England,Portugal,0,0,,,Etihad Stadium,,0-0
+Round of 16,2022-03-09,Real Madrid,Paris S-G,Spain,France,3,1,,,Estadio Santiago Bernabéu,Real Madrid,3-1
+Round of 16,2022-03-15,Manchester Utd,Atlético Madrid,England,Spain,0,1,,,Old Trafford,Atlético Madrid,0-1
+Round of 16,2022-03-15,Ajax,Benfica,Netherlands,Portugal,0,1,,,Johan Cruyff ArenA,Benfica,0-1
+Round of 16,2022-03-16,Lille,Chelsea,France,England,1,2,,,Stade Pierre-Mauroy,Chelsea,1-2
+Round of 16,2022-03-16,Juventus,Villarreal,Italy,Spain,0,3,,,Allianz Stadium,Villarreal,0-3
+Quarter-finals,2022-04-05,Benfica,Liverpool,Portugal,England,1,3,,,Estádio do Sport Lisboa e Benfica,Liverpool,1-3
+Quarter-finals,2022-04-05,Manchester City,Atlético Madrid,England,Spain,1,0,,,Etihad Stadium,Manchester City,1-0
+Quarter-finals,2022-04-06,Chelsea,Real Madrid,England,Spain,1,3,,,Stamford Bridge,Real Madrid,1-3
+Quarter-finals,2022-04-06,Villarreal,Bayern Munich,Spain,Germany,1,0,,,Estadio de la Cerámica,Villarreal,1-0
+Quarter-finals,2022-04-12,Bayern Munich,Villarreal,Germany,Spain,1,1,,,Allianz Arena,,1-1
+Quarter-finals,2022-04-12,Real Madrid,Chelsea,Spain,England,2,3,,,Estadio Santiago Bernabéu,Chelsea,2-3
+Quarter-finals,2022-04-13,Liverpool,Benfica,England,Portugal,3,3,,,Anfield,,3-3
+Quarter-finals,2022-04-13,Atlético Madrid,Manchester City,Spain,England,0,0,,,Estadio Wanda Metropolitano,,0-0
+Semi-finals,2022-04-26,Manchester City,Real Madrid,England,Spain,4,3,,,Etihad Stadium,Manchester City,4-3
+Semi-finals,2022-04-27,Liverpool,Villarreal,England,Spain,2,0,,,Anfield,Liverpool,2-0
+Semi-finals,2022-05-03,Villarreal,Liverpool,Spain,England,2,3,,,Estadio de la Cerámica,Liverpool,2-3
+Semi-finals,2022-05-04,Real Madrid,Manchester City,Spain,England,3,1,,,Estadio Santiago Bernabéu,Real Madrid,3-1
+Final,2022-05-28,Liverpool,Real Madrid,England,Spain,0,1,,,Stade de France (Neutral Site),Real Madrid,0-1

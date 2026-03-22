@@ -1,0 +1,126 @@
+round_of_comp,date,home_team,away_team,home_nation,away_nation,home_goals,away_goals,home_penalties,away_penalties,venue,winning_team,result_90_min
+Group stage,2018-09-18,Barcelona,PSV Eindhoven,Spain,Netherlands,4,0,,,Camp Nou,Barcelona,4-0
+Group stage,2018-09-18,Inter,Tottenham,Italy,England,2,1,,,Stadio Giuseppe Meazza,Inter,2-1
+Group stage,2018-09-18,Liverpool,Paris S-G,England,France,3,2,,,Anfield,Liverpool,3-2
+Group stage,2018-09-18,Red Star,Napoli,Serbia,Italy,0,0,,,Stadion Rajko Mitić,,0-0
+Group stage,2018-09-18,Schalke 04,Porto,Germany,Portugal,1,1,,,Veltins-Arena,,1-1
+Group stage,2018-09-18,Monaco,Atlético Madrid,France,Spain,1,2,,,Stade Louis II,Atlético Madrid,1-2
+Group stage,2018-09-18,Club Brugge,Dortmund,Belgium,Germany,0,1,,,Jan Breydelstadion,Dortmund,0-1
+Group stage,2018-09-18,Galatasaray,Loko Moscow,Turkey,Russia,3,0,,,Türk Telekom Arena,Galatasaray,3-0
+Group stage,2018-09-19,Ajax,AEK Athens,Netherlands,Greece,3,0,,,Johan Cruyff ArenA,Ajax,3-0
+Group stage,2018-09-19,Shakhtar,Hoffenheim,Ukraine,Germany,2,2,,,Oblasny SportKomplex Metalist,,2-2
+Group stage,2018-09-19,Benfica,Bayern Munich,Portugal,Germany,0,2,,,Estádio do Sport Lisboa e Benfica,Bayern Munich,0-2
+Group stage,2018-09-19,Manchester City,Lyon,England,France,1,2,,,Etihad Stadium,Lyon,1-2
+Group stage,2018-09-19,Young Boys,Manchester Utd,Switzerland,England,0,3,,,Stade de Suisse Wankdorf Bern,Manchester Utd,0-3
+Group stage,2018-09-19,Real Madrid,Roma,Spain,Italy,3,0,,,Estadio Santiago Bernabéu,Real Madrid,3-0
+Group stage,2018-09-19,Viktoria Plzeň,CSKA Moscow,Czech Republic,Russia,2,2,,,Doosan Arena,,2-2
+Group stage,2018-09-19,Valencia,Juventus,Spain,Italy,0,2,,,Estadio de Mestalla,Juventus,0-2
+Group stage,2018-10-02,Juventus,Young Boys,Italy,Switzerland,3,0,,,Allianz Stadium,Juventus,3-0
+Group stage,2018-10-02,Hoffenheim,Manchester City,Germany,England,1,2,,,PreZero Arena,Manchester City,1-2
+Group stage,2018-10-02,Manchester Utd,Valencia,England,Spain,0,0,,,Old Trafford,,0-0
+Group stage,2018-10-02,Bayern Munich,Ajax,Germany,Netherlands,1,1,,,Allianz Arena,,1-1
+Group stage,2018-10-02,Lyon,Shakhtar,France,Ukraine,2,2,,,Groupama Stadium,,2-2
+Group stage,2018-10-02,Roma,Viktoria Plzeň,Italy,Czech Republic,5,0,,,Stadio Olimpico,Roma,5-0
+Group stage,2018-10-02,AEK Athens,Benfica,Greece,Portugal,2,3,,,Olympiako Stadio Spyros Louis,Benfica,2-3
+Group stage,2018-10-02,CSKA Moscow,Real Madrid,Russia,Spain,1,0,,,VEB Arena,CSKA Moscow,1-0
+Group stage,2018-10-03,Paris S-G,Red Star,France,Serbia,6,1,,,Parc des Princes,Paris S-G,6-1
+Group stage,2018-10-03,Loko Moscow,Schalke 04,Russia,Germany,0,1,,,RZD Arena,Schalke 04,0-1
+Group stage,2018-10-03,Porto,Galatasaray,Portugal,Turkey,1,0,,,Estádio Do Dragão,Porto,1-0
+Group stage,2018-10-03,Tottenham,Barcelona,England,Spain,2,4,,,Wembley Stadium,Barcelona,2-4
+Group stage,2018-10-03,Dortmund,Monaco,Germany,France,3,0,,,Signal Iduna Park,Dortmund,3-0
+Group stage,2018-10-03,PSV Eindhoven,Inter,Netherlands,Italy,1,2,,,Philips Stadion,Inter,1-2
+Group stage,2018-10-03,Atlético Madrid,Club Brugge,Spain,Belgium,3,1,,,Estadio Wanda Metropolitano,Atlético Madrid,3-1
+Group stage,2018-10-03,Napoli,Liverpool,Italy,England,1,0,,,Stadio San Paolo,Napoli,1-0
+Group stage,2018-10-23,Young Boys,Valencia,Switzerland,Spain,1,1,,,Stade de Suisse Wankdorf Bern,,1-1
+Group stage,2018-10-23,AEK Athens,Bayern Munich,Greece,Germany,0,2,,,Olympiako Stadio Spyros Louis,Bayern Munich,0-2
+Group stage,2018-10-23,Manchester Utd,Juventus,England,Italy,0,1,,,Old Trafford,Juventus,0-1
+Group stage,2018-10-23,Roma,CSKA Moscow,Italy,Russia,3,0,,,Stadio Olimpico,Roma,3-0
+Group stage,2018-10-23,Ajax,Benfica,Netherlands,Portugal,1,0,,,Johan Cruyff ArenA,Ajax,1-0
+Group stage,2018-10-23,Hoffenheim,Lyon,Germany,France,3,3,,,PreZero Arena,,3-3
+Group stage,2018-10-23,Real Madrid,Viktoria Plzeň,Spain,Czech Republic,2,1,,,Estadio Santiago Bernabéu,Real Madrid,2-1
+Group stage,2018-10-23,Shakhtar,Manchester City,Ukraine,England,0,3,,,Oblasny SportKomplex Metalist,Manchester City,0-3
+Group stage,2018-10-24,Club Brugge,Monaco,Belgium,France,1,1,,,Jan Breydelstadion,,1-1
+Group stage,2018-10-24,PSV Eindhoven,Tottenham,Netherlands,England,2,2,,,Philips Stadion,,2-2
+Group stage,2018-10-24,Liverpool,Red Star,England,Serbia,4,0,,,Anfield,Liverpool,4-0
+Group stage,2018-10-24,Barcelona,Inter,Spain,Italy,2,0,,,Camp Nou,Barcelona,2-0
+Group stage,2018-10-24,Dortmund,Atlético Madrid,Germany,Spain,4,0,,,Signal Iduna Park,Dortmund,4-0
+Group stage,2018-10-24,Paris S-G,Napoli,France,Italy,2,2,,,Parc des Princes,,2-2
+Group stage,2018-10-24,Loko Moscow,Porto,Russia,Portugal,1,3,,,RZD Arena,Porto,1-3
+Group stage,2018-10-24,Galatasaray,Schalke 04,Turkey,Germany,0,0,,,Türk Telekom Arena,,0-0
+Group stage,2018-11-06,Monaco,Club Brugge,France,Belgium,0,4,,,Stade Louis II,Club Brugge,0-4
+Group stage,2018-11-06,Red Star,Liverpool,Serbia,England,2,0,,,Stadion Rajko Mitić,Red Star,2-0
+Group stage,2018-11-06,Tottenham,PSV Eindhoven,England,Netherlands,2,1,,,Wembley Stadium,Tottenham,2-1
+Group stage,2018-11-06,Porto,Loko Moscow,Portugal,Russia,4,1,,,Estádio Do Dragão,Porto,4-1
+Group stage,2018-11-06,Schalke 04,Galatasaray,Germany,Turkey,2,0,,,Veltins-Arena,Schalke 04,2-0
+Group stage,2018-11-06,Atlético Madrid,Dortmund,Spain,Germany,2,0,,,Estadio Wanda Metropolitano,Atlético Madrid,2-0
+Group stage,2018-11-06,Inter,Barcelona,Italy,Spain,1,1,,,Stadio Giuseppe Meazza,,1-1
+Group stage,2018-11-06,Napoli,Paris S-G,Italy,France,1,1,,,Stadio San Paolo,,1-1
+Group stage,2018-11-07,Valencia,Young Boys,Spain,Switzerland,3,1,,,Estadio de Mestalla,Valencia,3-1
+Group stage,2018-11-07,Manchester City,Shakhtar,England,Ukraine,6,0,,,Etihad Stadium,Manchester City,6-0
+Group stage,2018-11-07,Benfica,Ajax,Portugal,Netherlands,1,1,,,Estádio do Sport Lisboa e Benfica,,1-1
+Group stage,2018-11-07,CSKA Moscow,Roma,Russia,Italy,1,2,,,VEB Arena,Roma,1-2
+Group stage,2018-11-07,Juventus,Manchester Utd,Italy,England,1,2,,,Allianz Stadium,Manchester Utd,1-2
+Group stage,2018-11-07,Viktoria Plzeň,Real Madrid,Czech Republic,Spain,0,5,,,Doosan Arena,Real Madrid,0-5
+Group stage,2018-11-07,Lyon,Hoffenheim,France,Germany,2,2,,,Groupama Stadium,,2-2
+Group stage,2018-11-07,Bayern Munich,AEK Athens,Germany,Greece,2,0,,,Allianz Arena,Bayern Munich,2-0
+Group stage,2018-11-27,AEK Athens,Ajax,Greece,Netherlands,0,2,,,Olympiako Stadio Spyros Louis,Ajax,0-2
+Group stage,2018-11-27,Manchester Utd,Young Boys,England,Switzerland,1,0,,,Old Trafford,Manchester Utd,1-0
+Group stage,2018-11-27,CSKA Moscow,Viktoria Plzeň,Russia,Czech Republic,1,2,,,VEB Arena,Viktoria Plzeň,1-2
+Group stage,2018-11-27,Lyon,Manchester City,France,England,2,2,,,Groupama Stadium,,2-2
+Group stage,2018-11-27,Juventus,Valencia,Italy,Spain,1,0,,,Allianz Stadium,Juventus,1-0
+Group stage,2018-11-27,Hoffenheim,Shakhtar,Germany,Ukraine,2,3,,,PreZero Arena,Shakhtar,2-3
+Group stage,2018-11-27,Bayern Munich,Benfica,Germany,Portugal,5,1,,,Allianz Arena,Bayern Munich,5-1
+Group stage,2018-11-27,Roma,Real Madrid,Italy,Spain,0,2,,,Stadio Olimpico,Real Madrid,0-2
+Group stage,2018-11-28,Atlético Madrid,Monaco,Spain,France,2,0,,,Estadio Wanda Metropolitano,Atlético Madrid,2-0
+Group stage,2018-11-28,Tottenham,Inter,England,Italy,1,0,,,Wembley Stadium,Tottenham,1-0
+Group stage,2018-11-28,Porto,Schalke 04,Portugal,Germany,3,1,,,Estádio Do Dragão,Porto,3-1
+Group stage,2018-11-28,Loko Moscow,Galatasaray,Russia,Turkey,2,0,,,RZD Arena,Loko Moscow,2-0
+Group stage,2018-11-28,Paris S-G,Liverpool,France,England,2,1,,,Parc des Princes,Paris S-G,2-1
+Group stage,2018-11-28,Dortmund,Club Brugge,Germany,Belgium,0,0,,,Signal Iduna Park,,0-0
+Group stage,2018-11-28,Napoli,Red Star,Italy,Serbia,3,1,,,Stadio San Paolo,Napoli,3-1
+Group stage,2018-11-28,PSV Eindhoven,Barcelona,Netherlands,Spain,1,2,,,Philips Stadion,Barcelona,1-2
+Group stage,2018-12-11,Schalke 04,Loko Moscow,Germany,Russia,1,0,,,Veltins-Arena,Schalke 04,1-0
+Group stage,2018-12-11,Liverpool,Napoli,England,Italy,1,0,,,Anfield,Liverpool,1-0
+Group stage,2018-12-11,Galatasaray,Porto,Turkey,Portugal,2,3,,,Türk Telekom Arena,Porto,2-3
+Group stage,2018-12-11,Monaco,Dortmund,France,Germany,0,2,,,Stade Louis II,Dortmund,0-2
+Group stage,2018-12-11,Red Star,Paris S-G,Serbia,France,1,4,,,Stadion Rajko Mitić,Paris S-G,1-4
+Group stage,2018-12-11,Inter,PSV Eindhoven,Italy,Netherlands,1,1,,,Stadio Giuseppe Meazza,,1-1
+Group stage,2018-12-11,Club Brugge,Atlético Madrid,Belgium,Spain,0,0,,,Jan Breydelstadion,,0-0
+Group stage,2018-12-11,Barcelona,Tottenham,Spain,England,1,1,,,Camp Nou,,1-1
+Group stage,2018-12-12,Viktoria Plzeň,Roma,Czech Republic,Italy,2,1,,,Doosan Arena,Viktoria Plzeň,2-1
+Group stage,2018-12-12,Real Madrid,CSKA Moscow,Spain,Russia,0,3,,,Estadio Santiago Bernabéu,CSKA Moscow,0-3
+Group stage,2018-12-12,Manchester City,Hoffenheim,England,Germany,2,1,,,Etihad Stadium,Manchester City,2-1
+Group stage,2018-12-12,Benfica,AEK Athens,Portugal,Greece,1,0,,,Estádio do Sport Lisboa e Benfica,Benfica,1-0
+Group stage,2018-12-12,Young Boys,Juventus,Switzerland,Italy,2,1,,,Stade de Suisse Wankdorf Bern,Young Boys,2-1
+Group stage,2018-12-12,Valencia,Manchester Utd,Spain,England,2,1,,,Estadio de Mestalla,Valencia,2-1
+Group stage,2018-12-12,Ajax,Bayern Munich,Netherlands,Germany,3,3,,,Johan Cruyff ArenA,,3-3
+Group stage,2018-12-12,Shakhtar,Lyon,Ukraine,France,1,1,,,NSK Olimpijs'kyj,,1-1
+Round of 16,2019-02-12,Manchester Utd,Paris S-G,England,France,0,2,,,Old Trafford,Paris S-G,0-2
+Round of 16,2019-02-12,Roma,Porto,Italy,Portugal,2,1,,,Stadio Olimpico,Roma,2-1
+Round of 16,2019-02-13,Tottenham,Dortmund,England,Germany,3,0,,,Wembley Stadium,Tottenham,3-0
+Round of 16,2019-02-13,Ajax,Real Madrid,Netherlands,Spain,1,2,,,Johan Cruyff ArenA,Real Madrid,1-2
+Round of 16,2019-02-19,Liverpool,Bayern Munich,England,Germany,0,0,,,Anfield,,0-0
+Round of 16,2019-02-19,Lyon,Barcelona,France,Spain,0,0,,,Groupama Stadium,,0-0
+Round of 16,2019-02-20,Atlético Madrid,Juventus,Spain,Italy,2,0,,,Estadio Wanda Metropolitano,Atlético Madrid,2-0
+Round of 16,2019-02-20,Schalke 04,Manchester City,Germany,England,2,3,,,Veltins-Arena,Manchester City,2-3
+Round of 16,2019-03-05,Dortmund,Tottenham,Germany,England,0,1,,,Signal Iduna Park,Tottenham,0-1
+Round of 16,2019-03-05,Real Madrid,Ajax,Spain,Netherlands,1,4,,,Estadio Santiago Bernabéu,Ajax,1-4
+Round of 16,2019-03-06,Porto,Roma,Portugal,Italy,3,1,,,Estádio Do Dragão,Porto,3-1
+Round of 16,2019-03-06,Paris S-G,Manchester Utd,France,England,1,3,,,Parc des Princes,Manchester Utd,1-3
+Round of 16,2019-03-12,Manchester City,Schalke 04,England,Germany,7,0,,,Etihad Stadium,Manchester City,7-0
+Round of 16,2019-03-12,Juventus,Atlético Madrid,Italy,Spain,3,0,,,Allianz Stadium,Juventus,3-0
+Round of 16,2019-03-13,Bayern Munich,Liverpool,Germany,England,1,3,,,Allianz Arena,Liverpool,1-3
+Round of 16,2019-03-13,Barcelona,Lyon,Spain,France,5,1,,,Camp Nou,Barcelona,5-1
+Quarter-finals,2019-04-09,Liverpool,Porto,England,Portugal,2,0,,,Anfield,Liverpool,2-0
+Quarter-finals,2019-04-09,Tottenham,Manchester City,England,England,1,0,,,Tottenham Hotspur Stadium,Tottenham,1-0
+Quarter-finals,2019-04-10,Manchester Utd,Barcelona,England,Spain,0,1,,,Old Trafford,Barcelona,0-1
+Quarter-finals,2019-04-10,Ajax,Juventus,Netherlands,Italy,1,1,,,Johan Cruyff ArenA,,1-1
+Quarter-finals,2019-04-16,Barcelona,Manchester Utd,Spain,England,3,0,,,Camp Nou,Barcelona,3-0
+Quarter-finals,2019-04-16,Juventus,Ajax,Italy,Netherlands,1,2,,,Allianz Stadium,Ajax,1-2
+Quarter-finals,2019-04-17,Porto,Liverpool,Portugal,England,1,4,,,Estádio Do Dragão,Liverpool,1-4
+Quarter-finals,2019-04-17,Manchester City,Tottenham,England,England,4,3,,,Etihad Stadium,Manchester City,4-3
+Semi-finals,2019-04-30,Tottenham,Ajax,England,Netherlands,0,1,,,Tottenham Hotspur Stadium,Ajax,0-1
+Semi-finals,2019-05-01,Barcelona,Liverpool,Spain,England,3,0,,,Camp Nou,Barcelona,3-0
+Semi-finals,2019-05-07,Liverpool,Barcelona,England,Spain,4,0,,,Anfield,Liverpool,4-0
+Semi-finals,2019-05-08,Ajax,Tottenham,Netherlands,England,2,3,,,Johan Cruyff ArenA,Tottenham,2-3
+Final,2019-06-01,Tottenham,Liverpool,England,England,0,2,,,Estadio Wanda Metropolitano (Neutral Site),Liverpool,0-2

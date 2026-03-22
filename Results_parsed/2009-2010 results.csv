@@ -1,0 +1,126 @@
+round_of_comp,date,home_team,away_team,home_nation,away_nation,home_goals,away_goals,home_penalties,away_penalties,venue,winning_team,result_90_min
+Group stage,2009-09-15,Atlético Madrid,APOEL FC,Spain,Cyprus,0,0,,,Estadio Vicente Calderón,,0-0
+Group stage,2009-09-15,Marseille,Milan,France,Italy,1,2,,,Stade Vélodrome,Milan,1-2
+Group stage,2009-09-15,Chelsea,Porto,England,Portugal,1,0,,,Stamford Bridge,Chelsea,1-0
+Group stage,2009-09-15,Wolfsburg,CSKA Moscow,Germany,Russia,3,1,,,VfL Wolfsburg Arena,Wolfsburg,3-1
+Group stage,2009-09-15,Beşiktaş,Manchester Utd,Turkey,England,0,1,,,BJK İnönü Stadyumu,Manchester Utd,0-1
+Group stage,2009-09-15,Zürich,Real Madrid,Switzerland,Spain,2,5,,,Stadion Letzigrund,Real Madrid,2-5
+Group stage,2009-09-15,Juventus,Bordeaux,Italy,France,1,1,,,Stadio Olimpico,,1-1
+Group stage,2009-09-15,Maccabi Haifa,Bayern Munich,Israel,Germany,0,3,,,Itztadion Ramat Gan,Bayern Munich,0-3
+Group stage,2009-09-16,Sevilla,Unirea Urziceni,Spain,Romania,2,0,,,Estadio Ramón Sánchez Pizjuán,Sevilla,2-0
+Group stage,2009-09-16,Olympiacos,AZ Alkmaar,Greece,Netherlands,1,0,,,Stadio Georgios Karaiskakis,Olympiacos,1-0
+Group stage,2009-09-16,Stuttgart,Rangers,Germany,Scotland,1,1,,,VfB Arena,,1-1
+Group stage,2009-09-16,Liverpool,Debrecen,England,Hungary,1,0,,,Anfield,Liverpool,1-0
+Group stage,2009-09-16,Lyon,Fiorentina,France,Italy,1,0,,,Stade de Gerland,Lyon,1-0
+Group stage,2009-09-16,Standard Liège,Arsenal,Belgium,England,2,3,,,Stade Maurice Dufrasne,Arsenal,2-3
+Group stage,2009-09-16,Dynamo Kyiv,Rubin Kazan,Ukraine,Russia,3,1,,,Stadion Dynamo im. Valeriy Lobanovskiy,Dynamo Kyiv,3-1
+Group stage,2009-09-16,Inter,Barcelona,Italy,Spain,0,0,,,Stadio Giuseppe Meazza,,0-0
+Group stage,2009-09-29,Arsenal,Olympiacos,England,Greece,2,0,,,Arsenal Stadium,Arsenal,2-0
+Group stage,2009-09-29,Debrecen,Lyon,Hungary,France,0,4,,,Ferenc Puskás,Lyon,0-4
+Group stage,2009-09-29,Rangers,Sevilla,Scotland,Spain,1,4,,,Ibrox Stadium,Sevilla,1-4
+Group stage,2009-09-29,Barcelona,Dynamo Kyiv,Spain,Ukraine,2,0,,,Camp Nou,Barcelona,2-0
+Group stage,2009-09-29,Unirea Urziceni,Stuttgart,Romania,Germany,1,1,,,Stadionul Steaua,,1-1
+Group stage,2009-09-29,Fiorentina,Liverpool,Italy,England,2,0,,,Stadio Artemio Franchi,Fiorentina,2-0
+Group stage,2009-09-29,AZ Alkmaar,Standard Liège,Netherlands,Belgium,1,1,,,AZ Stadion,,1-1
+Group stage,2009-09-29,Rubin Kazan,Inter,Russia,Italy,1,1,,,Centralniy Stadion,,1-1
+Group stage,2009-09-30,Porto,Atlético Madrid,Portugal,Spain,2,0,,,Estádio do Dragão,Porto,2-0
+Group stage,2009-09-30,Bayern Munich,Juventus,Germany,Italy,0,0,,,Fußball Arena München,,0-0
+Group stage,2009-09-30,Real Madrid,Marseille,Spain,France,3,0,,,Estadio Santiago Bernabéu,Real Madrid,3-0
+Group stage,2009-09-30,Manchester Utd,Wolfsburg,England,Germany,2,1,,,Old Trafford,Manchester Utd,2-1
+Group stage,2009-09-30,CSKA Moscow,Beşiktaş,Russia,Turkey,2,1,,,Stadion Luzhniki,CSKA Moscow,2-1
+Group stage,2009-09-30,Milan,Zürich,Italy,Switzerland,0,1,,,Stadio Giuseppe Meazza,Zürich,0-1
+Group stage,2009-09-30,Bordeaux,Maccabi Haifa,France,Israel,1,0,,,Stade Chaban-Delmas,Bordeaux,1-0
+Group stage,2009-09-30,APOEL FC,Chelsea,Cyprus,England,0,1,,,GSP,Chelsea,0-1
+Group stage,2009-10-20,Debrecen,Fiorentina,Hungary,Italy,3,4,,,Ferenc Puskás,Fiorentina,3-4
+Group stage,2009-10-20,AZ Alkmaar,Arsenal,Netherlands,England,1,1,,,AZ Stadion,,1-1
+Group stage,2009-10-20,Barcelona,Rubin Kazan,Spain,Russia,1,2,,,Camp Nou,Rubin Kazan,1-2
+Group stage,2009-10-20,Olympiacos,Standard Liège,Greece,Belgium,2,1,,,Stadio Georgios Karaiskakis,Olympiacos,2-1
+Group stage,2009-10-20,Liverpool,Lyon,England,France,1,2,,,Anfield,Lyon,1-2
+Group stage,2009-10-20,Rangers,Unirea Urziceni,Scotland,Romania,1,4,,,Ibrox Stadium,Unirea Urziceni,1-4
+Group stage,2009-10-20,Inter,Dynamo Kyiv,Italy,Ukraine,2,2,,,Stadio Giuseppe Meazza,,2-2
+Group stage,2009-10-20,Stuttgart,Sevilla,Germany,Spain,1,3,,,VfB Arena,Sevilla,1-3
+Group stage,2009-10-21,Wolfsburg,Beşiktaş,Germany,Turkey,0,0,,,VfL Wolfsburg Arena,,0-0
+Group stage,2009-10-21,Zürich,Marseille,Switzerland,France,0,1,,,Stadion Letzigrund,Marseille,0-1
+Group stage,2009-10-21,Juventus,Maccabi Haifa,Italy,Israel,1,0,,,Stadio Olimpico,Juventus,1-0
+Group stage,2009-10-21,Bordeaux,Bayern Munich,France,Germany,2,1,,,Stade Chaban-Delmas,Bordeaux,2-1
+Group stage,2009-10-21,Porto,APOEL FC,Portugal,Cyprus,2,1,,,Estádio do Dragão,Porto,2-1
+Group stage,2009-10-21,Chelsea,Atlético Madrid,England,Spain,4,0,,,Stamford Bridge,Chelsea,4-0
+Group stage,2009-10-21,Real Madrid,Milan,Spain,Italy,2,3,,,Estadio Santiago Bernabéu,Milan,2-3
+Group stage,2009-10-21,CSKA Moscow,Manchester Utd,Russia,England,0,1,,,Stadion Luzhniki,Manchester Utd,0-1
+Group stage,2009-11-03,Marseille,Zürich,France,Switzerland,6,1,,,Stade Vélodrome,Marseille,6-1
+Group stage,2009-11-03,Beşiktaş,Wolfsburg,Turkey,Germany,0,3,,,BJK İnönü Stadyumu,Wolfsburg,0-3
+Group stage,2009-11-03,Bayern Munich,Bordeaux,Germany,France,0,2,,,Fußball Arena München,Bordeaux,0-2
+Group stage,2009-11-03,APOEL FC,Porto,Cyprus,Portugal,0,1,,,GSP Stadium,Porto,0-1
+Group stage,2009-11-03,Maccabi Haifa,Juventus,Israel,Italy,0,1,,,Itztadion Ramat Gan,Juventus,0-1
+Group stage,2009-11-03,Atlético Madrid,Chelsea,Spain,England,2,2,,,Estadio Vicente Calderón,,2-2
+Group stage,2009-11-03,Manchester Utd,CSKA Moscow,England,Russia,3,3,,,Old Trafford,,3-3
+Group stage,2009-11-03,Milan,Real Madrid,Italy,Spain,1,1,,,Stadio Giuseppe Meazza,,1-1
+Group stage,2009-11-04,Arsenal,AZ Alkmaar,England,Netherlands,4,1,,,Arsenal Stadium,Arsenal,4-1
+Group stage,2009-11-04,Dynamo Kyiv,Inter,Ukraine,Italy,1,2,,,Stadion Dynamo im. Valeriy Lobanovskiy,Inter,1-2
+Group stage,2009-11-04,Unirea Urziceni,Rangers,Romania,Scotland,1,1,,,Stadionul Steaua,,1-1
+Group stage,2009-11-04,Standard Liège,Olympiacos,Belgium,Greece,2,0,,,Stade Maurice Dufrasne,Standard Liège,2-0
+Group stage,2009-11-04,Fiorentina,Debrecen,Italy,Hungary,5,2,,,Stadio Artemio Franchi,Fiorentina,5-2
+Group stage,2009-11-04,Lyon,Liverpool,France,England,1,1,,,Stade de Gerland,,1-1
+Group stage,2009-11-04,Sevilla,Stuttgart,Spain,Germany,1,1,,,Estadio Ramón Sánchez Pizjuán,,1-1
+Group stage,2009-11-04,Rubin Kazan,Barcelona,Russia,Spain,0,0,,,Centralniy Stadion,,0-0
+Group stage,2009-11-24,Arsenal,Standard Liège,England,Belgium,2,0,,,Arsenal Stadium,Arsenal,2-0
+Group stage,2009-11-24,Debrecen,Liverpool,Hungary,England,0,1,,,Ferenc Puskás,Liverpool,0-1
+Group stage,2009-11-24,Barcelona,Inter,Spain,Italy,2,0,,,Camp Nou,Barcelona,2-0
+Group stage,2009-11-24,Fiorentina,Lyon,Italy,France,1,0,,,Stadio Artemio Franchi,Fiorentina,1-0
+Group stage,2009-11-24,Unirea Urziceni,Sevilla,Romania,Spain,1,0,,,Stadionul Steaua,Unirea Urziceni,1-0
+Group stage,2009-11-24,Rangers,Stuttgart,Scotland,Germany,0,2,,,Ibrox Stadium,Stuttgart,0-2
+Group stage,2009-11-24,AZ Alkmaar,Olympiacos,Netherlands,Greece,0,0,,,AZ Stadion,,0-0
+Group stage,2009-11-24,Rubin Kazan,Dynamo Kyiv,Russia,Ukraine,0,0,,,Centralniy Stadion,,0-0
+Group stage,2009-11-25,Milan,Marseille,Italy,France,1,1,,,Stadio Giuseppe Meazza,,1-1
+Group stage,2009-11-25,Real Madrid,Zürich,Spain,Switzerland,1,0,,,Estadio Santiago Bernabéu,Real Madrid,1-0
+Group stage,2009-11-25,Manchester Utd,Beşiktaş,England,Turkey,0,1,,,Old Trafford,Beşiktaş,0-1
+Group stage,2009-11-25,CSKA Moscow,Wolfsburg,Russia,Germany,2,1,,,Stadion Luzhniki,CSKA Moscow,2-1
+Group stage,2009-11-25,APOEL FC,Atlético Madrid,Cyprus,Spain,1,1,,,GSP Stadium,,1-1
+Group stage,2009-11-25,Bayern Munich,Maccabi Haifa,Germany,Israel,1,0,,,Fußball Arena München,Bayern Munich,1-0
+Group stage,2009-11-25,Bordeaux,Juventus,France,Italy,2,0,,,Stade Chaban-Delmas,Bordeaux,2-0
+Group stage,2009-11-25,Porto,Chelsea,Portugal,England,0,1,,,Estádio do Dragão,Chelsea,0-1
+Group stage,2009-12-08,Wolfsburg,Manchester Utd,Germany,England,1,3,,,VfL Wolfsburg Arena,Manchester Utd,1-3
+Group stage,2009-12-08,Atlético Madrid,Porto,Spain,Portugal,0,3,,,Estadio Vicente Calderón,Porto,0-3
+Group stage,2009-12-08,Juventus,Bayern Munich,Italy,Germany,1,4,,,Stadio Olimpico,Bayern Munich,1-4
+Group stage,2009-12-08,Chelsea,APOEL FC,England,Cyprus,2,2,,,Stamford Bridge,,2-2
+Group stage,2009-12-08,Zürich,Milan,Switzerland,Italy,1,1,,,Stadion Letzigrund,,1-1
+Group stage,2009-12-08,Marseille,Real Madrid,France,Spain,1,3,,,Stade Vélodrome,Real Madrid,1-3
+Group stage,2009-12-08,Maccabi Haifa,Bordeaux,Israel,France,0,1,,,Itztadion Ramat Gan,Bordeaux,0-1
+Group stage,2009-12-08,Beşiktaş,CSKA Moscow,Turkey,Russia,1,2,,,BJK İnönü Stadyumu,CSKA Moscow,1-2
+Group stage,2009-12-09,Inter,Rubin Kazan,Italy,Russia,2,0,,,Stadio Giuseppe Meazza,Inter,2-0
+Group stage,2009-12-09,Lyon,Debrecen,France,Hungary,4,0,,,Stade de Gerland,Lyon,4-0
+Group stage,2009-12-09,Sevilla,Rangers,Spain,Scotland,1,0,,,Estadio Ramón Sánchez Pizjuán,Sevilla,1-0
+Group stage,2009-12-09,Stuttgart,Unirea Urziceni,Germany,Romania,3,1,,,VfB Arena,Stuttgart,3-1
+Group stage,2009-12-09,Dynamo Kyiv,Barcelona,Ukraine,Spain,1,2,,,Stadion Dynamo im. Valeriy Lobanovskiy,Barcelona,1-2
+Group stage,2009-12-09,Standard Liège,AZ Alkmaar,Belgium,Netherlands,1,1,,,Stade Maurice Dufrasne,,1-1
+Group stage,2009-12-09,Liverpool,Fiorentina,England,Italy,1,2,,,Anfield,Fiorentina,1-2
+Group stage,2009-12-09,Olympiacos,Arsenal,Greece,England,1,0,,,Stadio Georgios Karaiskakis,Olympiacos,1-0
+Round of 16,2010-02-16,Lyon,Real Madrid,France,Spain,1,0,,,Stade de Gerland,Lyon,1-0
+Round of 16,2010-02-16,Milan,Manchester Utd,Italy,England,2,3,,,Stadio Giuseppe Meazza,Manchester Utd,2-3
+Round of 16,2010-02-17,Bayern Munich,Fiorentina,Germany,Italy,2,1,,,Fußball Arena München,Bayern Munich,2-1
+Round of 16,2010-02-17,Porto,Arsenal,Portugal,England,2,1,,,Estádio do Dragão,Porto,2-1
+Round of 16,2010-02-23,Stuttgart,Barcelona,Germany,Spain,1,1,,,VfB Arena,,1-1
+Round of 16,2010-02-23,Olympiacos,Bordeaux,Greece,France,0,1,,,Stadio Georgios Karaiskakis,Bordeaux,0-1
+Round of 16,2010-02-24,CSKA Moscow,Sevilla,Russia,Spain,1,1,,,Stadion Luzhniki,,1-1
+Round of 16,2010-02-24,Inter,Chelsea,Italy,England,2,1,,,Stadio Giuseppe Meazza,Inter,2-1
+Round of 16,2010-03-09,Arsenal,Porto,England,Portugal,5,0,,,Arsenal Stadium,Arsenal,5-0
+Round of 16,2010-03-09,Fiorentina,Bayern Munich,Italy,Germany,3,2,,,Stadio Artemio Franchi,Fiorentina,3-2
+Round of 16,2010-03-10,Real Madrid,Lyon,Spain,France,1,1,,,Estadio Santiago Bernabéu,,1-1
+Round of 16,2010-03-10,Manchester Utd,Milan,England,Italy,4,0,,,Old Trafford,Manchester Utd,4-0
+Round of 16,2010-03-16,Chelsea,Inter,England,Italy,0,1,,,Stamford Bridge,Inter,0-1
+Round of 16,2010-03-16,Sevilla,CSKA Moscow,Spain,Russia,1,2,,,Estadio Ramón Sánchez Pizjuán,CSKA Moscow,1-2
+Round of 16,2010-03-17,Bordeaux,Olympiacos,France,Greece,2,1,,,Stade Chaban-Delmas,Bordeaux,2-1
+Round of 16,2010-03-17,Barcelona,Stuttgart,Spain,Germany,4,0,,,Camp Nou,Barcelona,4-0
+Quarter-finals,2010-03-30,Bayern Munich,Manchester Utd,Germany,England,2,1,,,Fußball Arena München,Bayern Munich,2-1
+Quarter-finals,2010-03-30,Lyon,Bordeaux,France,France,3,1,,,Stade de Gerland,Lyon,3-1
+Quarter-finals,2010-03-31,Inter,CSKA Moscow,Italy,Russia,1,0,,,Stadio Giuseppe Meazza,Inter,1-0
+Quarter-finals,2010-03-31,Arsenal,Barcelona,England,Spain,2,2,,,Arsenal Stadium,,2-2
+Quarter-finals,2010-04-06,Barcelona,Arsenal,Spain,England,4,1,,,Camp Nou,Barcelona,4-1
+Quarter-finals,2010-04-06,CSKA Moscow,Inter,Russia,Italy,0,1,,,Stadion Luzhniki,Inter,0-1
+Quarter-finals,2010-04-07,Bordeaux,Lyon,France,France,1,0,,,Stade Chaban-Delmas,Bordeaux,1-0
+Quarter-finals,2010-04-07,Manchester Utd,Bayern Munich,England,Germany,3,2,,,Old Trafford,Manchester Utd,3-2
+Semi-finals,2010-04-20,Inter,Barcelona,Italy,Spain,3,1,,,Stadio Giuseppe Meazza,Inter,3-1
+Semi-finals,2010-04-21,Bayern Munich,Lyon,Germany,France,1,0,,,Fußball Arena München,Bayern Munich,1-0
+Semi-finals,2010-04-27,Lyon,Bayern Munich,France,Germany,0,3,,,Stade de Gerland,Bayern Munich,0-3
+Semi-finals,2010-04-28,Barcelona,Inter,Spain,Italy,1,0,,,Camp Nou,Barcelona,1-0
+Final,2010-05-22,Bayern Munich,Inter,Germany,Italy,0,2,,,Estadio Santiago Bernabéu (Neutral Site),Inter,0-2

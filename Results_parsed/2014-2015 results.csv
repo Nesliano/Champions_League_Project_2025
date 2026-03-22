@@ -1,0 +1,126 @@
+round_of_comp,date,home_team,away_team,home_nation,away_nation,home_goals,away_goals,home_penalties,away_penalties,venue,winning_team,result_90_min
+Group stage,2014-09-16,Liverpool,Ludogorets,England,Bulgaria,2,1,,,Anfield,Liverpool,2-1
+Group stage,2014-09-16,Benfica,Zenit,Portugal,Russia,0,2,,,Estádio do Sport Lisboa e Benfica,Zenit,0-2
+Group stage,2014-09-16,Monaco,Leverkusen,France,Germany,1,0,,,Stade Louis II,Monaco,1-0
+Group stage,2014-09-16,Dortmund,Arsenal,Germany,England,2,0,,,Signal Iduna Park,Dortmund,2-0
+Group stage,2014-09-16,Real Madrid,Basel,Spain,Switzerland,5,1,,,Estadio Santiago Bernabéu,Real Madrid,5-1
+Group stage,2014-09-16,Juventus,Malmö,Italy,Sweden,2,0,,,Allianz Stadium,Juventus,2-0
+Group stage,2014-09-16,Olympiacos,Atlético Madrid,Greece,Spain,3,2,,,Stadio Georgios Karaiskáki,Olympiacos,3-2
+Group stage,2014-09-16,Galatasaray,Anderlecht,Turkey,Belgium,1,1,,,Türk Telekom Arena,,1-1
+Group stage,2014-09-17,Chelsea,Schalke 04,England,Germany,1,1,,,Stamford Bridge,,1-1
+Group stage,2014-09-17,Porto,BATE Borisov,Portugal,Belarus,6,0,,,Estádio Do Dragão,Porto,6-0
+Group stage,2014-09-17,Athletic Club,Shakhtar,Spain,Ukraine,0,0,,,San Mamés,,0-0
+Group stage,2014-09-17,Barcelona,APOEL FC,Spain,Cyprus,1,0,,,Camp Nou,Barcelona,1-0
+Group stage,2014-09-17,Bayern Munich,Manchester City,Germany,England,1,0,,,Allianz Arena,Bayern Munich,1-0
+Group stage,2014-09-17,Roma,CSKA Moscow,Italy,Russia,5,1,,,Stadio Olimpico,Roma,5-1
+Group stage,2014-09-17,NK Maribor,Sporting CP,Slovenia,Portugal,1,1,,,Ljudski vrt,,1-1
+Group stage,2014-09-17,Ajax,Paris S-G,Netherlands,France,1,1,,,Johan Cruyff ArenA,,1-1
+Group stage,2014-09-30,Manchester City,Roma,England,Italy,1,1,,,Etihad Stadium,,1-1
+Group stage,2014-09-30,Sporting CP,Chelsea,Portugal,England,0,1,,,Estádio José Alvalade,Chelsea,0-1
+Group stage,2014-09-30,CSKA Moscow,Bayern Munich,Russia,Germany,0,1,,,RZD Arena,Bayern Munich,0-1
+Group stage,2014-09-30,Paris S-G,Barcelona,France,Spain,3,2,,,Parc des Princes,Paris S-G,3-2
+Group stage,2014-09-30,Schalke 04,NK Maribor,Germany,Slovenia,1,1,,,Veltins-Arena,,1-1
+Group stage,2014-09-30,APOEL FC,Ajax,Cyprus,Netherlands,1,1,,,Neo GSP,,1-1
+Group stage,2014-09-30,Shakhtar,Porto,Ukraine,Portugal,2,2,,,L'viv Arena,,2-2
+Group stage,2014-09-30,BATE Borisov,Athletic Club,Belarus,Spain,2,1,,,Borisov Arena,BATE Borisov,2-1
+Group stage,2014-10-01,Arsenal,Galatasaray,England,Turkey,4,1,,,Emirates Stadium,Arsenal,4-1
+Group stage,2014-10-01,Zenit,Monaco,Russia,France,0,0,,,Stadion Petrovskij,,0-0
+Group stage,2014-10-01,Basel,Liverpool,Switzerland,England,1,0,,,St. Jakob-Park,Basel,1-0
+Group stage,2014-10-01,Anderlecht,Dortmund,Belgium,Germany,0,3,,,Lotto Park,Dortmund,0-3
+Group stage,2014-10-01,Leverkusen,Benfica,Germany,Portugal,3,1,,,BayArena,Leverkusen,3-1
+Group stage,2014-10-01,Malmö,Olympiacos,Sweden,Greece,2,0,,,Swedbank Stadion,Malmö,2-0
+Group stage,2014-10-01,Atlético Madrid,Juventus,Spain,Italy,1,0,,,Estadio Vicente Calderón,Atlético Madrid,1-0
+Group stage,2014-10-01,Ludogorets,Real Madrid,Bulgaria,Spain,1,2,,,Stadion Vasil Levski,Real Madrid,1-2
+Group stage,2014-10-21,Chelsea,NK Maribor,England,Slovenia,6,0,,,Stamford Bridge,Chelsea,6-0
+Group stage,2014-10-21,Porto,Athletic Club,Portugal,Spain,2,1,,,Estádio Do Dragão,Porto,2-1
+Group stage,2014-10-21,CSKA Moscow,Manchester City,Russia,England,2,2,,,Arena Khimki,,2-2
+Group stage,2014-10-21,Roma,Bayern Munich,Italy,Germany,1,7,,,Stadio Olimpico,Bayern Munich,1-7
+Group stage,2014-10-21,Barcelona,Ajax,Spain,Netherlands,3,1,,,Camp Nou,Barcelona,3-1
+Group stage,2014-10-21,Schalke 04,Sporting CP,Germany,Portugal,4,3,,,Veltins-Arena,Schalke 04,4-3
+Group stage,2014-10-21,APOEL FC,Paris S-G,Cyprus,France,0,1,,,Neo GSP,Paris S-G,0-1
+Group stage,2014-10-21,BATE Borisov,Shakhtar,Belarus,Ukraine,0,7,,,Borisov Arena,Shakhtar,0-7
+Group stage,2014-10-22,Liverpool,Real Madrid,England,Spain,0,3,,,Anfield,Real Madrid,0-3
+Group stage,2014-10-22,Monaco,Benfica,France,Portugal,0,0,,,Stade Louis II,,0-0
+Group stage,2014-10-22,Atlético Madrid,Malmö,Spain,Sweden,5,0,,,Estadio Vicente Calderón,Atlético Madrid,5-0
+Group stage,2014-10-22,Anderlecht,Arsenal,Belgium,England,1,2,,,Lotto Park,Arsenal,1-2
+Group stage,2014-10-22,Leverkusen,Zenit,Germany,Russia,2,0,,,BayArena,Leverkusen,2-0
+Group stage,2014-10-22,Olympiacos,Juventus,Greece,Italy,1,0,,,Stadio Georgios Karaiskáki,Olympiacos,1-0
+Group stage,2014-10-22,Ludogorets,Basel,Bulgaria,Switzerland,1,0,,,Stadion Vasil Levski,Ludogorets,1-0
+Group stage,2014-10-22,Galatasaray,Dortmund,Turkey,Germany,0,4,,,Türk Telekom Arena,Dortmund,0-4
+Group stage,2014-11-04,Benfica,Monaco,Portugal,France,1,0,,,Estádio do Sport Lisboa e Benfica,Benfica,1-0
+Group stage,2014-11-04,Arsenal,Anderlecht,England,Belgium,3,3,,,Emirates Stadium,,3-3
+Group stage,2014-11-04,Zenit,Leverkusen,Russia,Germany,1,2,,,Stadion Petrovskij,Leverkusen,1-2
+Group stage,2014-11-04,Real Madrid,Liverpool,Spain,England,1,0,,,Estadio Santiago Bernabéu,Real Madrid,1-0
+Group stage,2014-11-04,Malmö,Atlético Madrid,Sweden,Spain,0,2,,,Swedbank Stadion,Atlético Madrid,0-2
+Group stage,2014-11-04,Juventus,Olympiacos,Italy,Greece,3,2,,,Allianz Stadium,Juventus,3-2
+Group stage,2014-11-04,Basel,Ludogorets,Switzerland,Bulgaria,4,0,,,St. Jakob-Park,Basel,4-0
+Group stage,2014-11-04,Dortmund,Galatasaray,Germany,Turkey,4,1,,,Signal Iduna Park,Dortmund,4-1
+Group stage,2014-11-05,Manchester City,CSKA Moscow,England,Russia,1,2,,,Etihad Stadium,CSKA Moscow,1-2
+Group stage,2014-11-05,Sporting CP,Schalke 04,Portugal,Germany,4,2,,,Estádio José Alvalade,Sporting CP,4-2
+Group stage,2014-11-05,NK Maribor,Chelsea,Slovenia,England,1,1,,,Ljudski vrt,,1-1
+Group stage,2014-11-05,Paris S-G,APOEL FC,France,Cyprus,1,0,,,Parc des Princes,Paris S-G,1-0
+Group stage,2014-11-05,Athletic Club,Porto,Spain,Portugal,0,2,,,San Mamés,Porto,0-2
+Group stage,2014-11-05,Ajax,Barcelona,Netherlands,Spain,0,2,,,Johan Cruyff ArenA,Barcelona,0-2
+Group stage,2014-11-05,Bayern Munich,Roma,Germany,Italy,2,0,,,Allianz Arena,Bayern Munich,2-0
+Group stage,2014-11-05,Shakhtar,BATE Borisov,Ukraine,Belarus,5,0,,,L'viv Arena,Shakhtar,5-0
+Group stage,2014-11-25,Manchester City,Bayern Munich,England,Germany,3,2,,,Etihad Stadium,Manchester City,3-2
+Group stage,2014-11-25,Sporting CP,NK Maribor,Portugal,Slovenia,3,1,,,Estádio José Alvalade,Sporting CP,3-1
+Group stage,2014-11-25,CSKA Moscow,Roma,Russia,Italy,1,1,,,Arena Khimki,,1-1
+Group stage,2014-11-25,BATE Borisov,Porto,Belarus,Portugal,0,3,,,Borisov Arena,Porto,0-3
+Group stage,2014-11-25,Schalke 04,Chelsea,Germany,England,0,5,,,Veltins-Arena,Chelsea,0-5
+Group stage,2014-11-25,Paris S-G,Ajax,France,Netherlands,3,1,,,Parc des Princes,Paris S-G,3-1
+Group stage,2014-11-25,APOEL FC,Barcelona,Cyprus,Spain,0,4,,,Neo GSP,Barcelona,0-4
+Group stage,2014-11-25,Shakhtar,Athletic Club,Ukraine,Spain,0,1,,,L'viv Arena,Athletic Club,0-1
+Group stage,2014-11-26,Arsenal,Dortmund,England,Germany,2,0,,,Emirates Stadium,Arsenal,2-0
+Group stage,2014-11-26,Zenit,Benfica,Russia,Portugal,1,0,,,Stadion Petrovskij,Zenit,1-0
+Group stage,2014-11-26,Atlético Madrid,Olympiacos,Spain,Greece,4,0,,,Estadio Vicente Calderón,Atlético Madrid,4-0
+Group stage,2014-11-26,Basel,Real Madrid,Switzerland,Spain,0,1,,,St. Jakob-Park,Real Madrid,0-1
+Group stage,2014-11-26,Anderlecht,Galatasaray,Belgium,Turkey,2,0,,,Lotto Park,Anderlecht,2-0
+Group stage,2014-11-26,Malmö,Juventus,Sweden,Italy,0,2,,,Swedbank Stadion,Juventus,0-2
+Group stage,2014-11-26,Leverkusen,Monaco,Germany,France,0,1,,,BayArena,Monaco,0-1
+Group stage,2014-11-26,Ludogorets,Liverpool,Bulgaria,England,2,2,,,Stadion Vasil Levski,,2-2
+Group stage,2014-12-09,Liverpool,Basel,England,Switzerland,1,1,,,Anfield,,1-1
+Group stage,2014-12-09,Benfica,Leverkusen,Portugal,Germany,0,0,,,Estádio do Sport Lisboa e Benfica,,0-0
+Group stage,2014-12-09,Juventus,Atlético Madrid,Italy,Spain,0,0,,,Allianz Stadium,,0-0
+Group stage,2014-12-09,Monaco,Zenit,France,Russia,2,0,,,Stade Louis II,Monaco,2-0
+Group stage,2014-12-09,Real Madrid,Ludogorets,Spain,Bulgaria,4,0,,,Estadio Santiago Bernabéu,Real Madrid,4-0
+Group stage,2014-12-09,Dortmund,Anderlecht,Germany,Belgium,1,1,,,Signal Iduna Park,,1-1
+Group stage,2014-12-09,Olympiacos,Malmö,Greece,Sweden,4,2,,,Stadio Georgios Karaiskáki,Olympiacos,4-2
+Group stage,2014-12-09,Galatasaray,Arsenal,Turkey,England,1,4,,,Türk Telekom Arena,Arsenal,1-4
+Group stage,2014-12-10,Chelsea,Sporting CP,England,Portugal,3,1,,,Stamford Bridge,Chelsea,3-1
+Group stage,2014-12-10,Porto,Shakhtar,Portugal,Ukraine,1,1,,,Estádio Do Dragão,,1-1
+Group stage,2014-12-10,Athletic Club,BATE Borisov,Spain,Belarus,2,0,,,San Mamés,Athletic Club,2-0
+Group stage,2014-12-10,Roma,Manchester City,Italy,England,0,2,,,Stadio Olimpico,Manchester City,0-2
+Group stage,2014-12-10,NK Maribor,Schalke 04,Slovenia,Germany,0,1,,,Ljudski vrt,Schalke 04,0-1
+Group stage,2014-12-10,Barcelona,Paris S-G,Spain,France,3,1,,,Camp Nou,Barcelona,3-1
+Group stage,2014-12-10,Bayern Munich,CSKA Moscow,Germany,Russia,3,0,,,Allianz Arena,Bayern Munich,3-0
+Group stage,2014-12-10,Ajax,APOEL FC,Netherlands,Cyprus,4,0,,,Johan Cruyff ArenA,Ajax,4-0
+Round of 16,2015-02-17,Paris S-G,Chelsea,France,England,1,1,,,Parc des Princes,,1-1
+Round of 16,2015-02-17,Shakhtar,Bayern Munich,Ukraine,Germany,0,0,,,L'viv Arena,,0-0
+Round of 16,2015-02-18,Schalke 04,Real Madrid,Germany,Spain,0,2,,,Veltins-Arena,Real Madrid,0-2
+Round of 16,2015-02-18,Basel,Porto,Switzerland,Portugal,1,1,,,St. Jakob-Park,,1-1
+Round of 16,2015-02-24,Manchester City,Barcelona,England,Spain,1,2,,,Etihad Stadium,Barcelona,1-2
+Round of 16,2015-02-24,Juventus,Dortmund,Italy,Germany,2,1,,,Allianz Stadium,Juventus,2-1
+Round of 16,2015-02-25,Arsenal,Monaco,England,France,1,3,,,Emirates Stadium,Monaco,1-3
+Round of 16,2015-02-25,Leverkusen,Atlético Madrid,Germany,Spain,1,0,,,BayArena,Leverkusen,1-0
+Round of 16,2015-03-10,Porto,Basel,Portugal,Switzerland,4,0,,,Estádio Do Dragão,Porto,4-0
+Round of 16,2015-03-10,Real Madrid,Schalke 04,Spain,Germany,3,4,,,Estadio Santiago Bernabéu,Schalke 04,3-4
+Round of 16,2015-03-11,Chelsea,Paris S-G,England,France,2,2,,,Stamford Bridge,,2-2
+Round of 16,2015-03-11,Bayern Munich,Shakhtar,Germany,Ukraine,7,0,,,Allianz Arena,Bayern Munich,7-0
+Round of 16,2015-03-17,Monaco,Arsenal,France,England,0,2,,,Stade Louis II,Arsenal,0-2
+Round of 16,2015-03-17,Atlético Madrid,Leverkusen,Spain,Germany,1,0,3,2,Estadio Vicente Calderón,Atlético Madrid,1-0
+Round of 16,2015-03-18,Dortmund,Juventus,Germany,Italy,0,3,,,Signal Iduna Park,Juventus,0-3
+Round of 16,2015-03-18,Barcelona,Manchester City,Spain,England,1,0,,,Camp Nou,Barcelona,1-0
+Quarter-finals,2015-04-14,Atlético Madrid,Real Madrid,Spain,Spain,0,0,,,Estadio Vicente Calderón,,0-0
+Quarter-finals,2015-04-14,Juventus,Monaco,Italy,France,1,0,,,Allianz Stadium,Juventus,1-0
+Quarter-finals,2015-04-15,Porto,Bayern Munich,Portugal,Germany,3,1,,,Estádio Do Dragão,Porto,3-1
+Quarter-finals,2015-04-15,Paris S-G,Barcelona,France,Spain,1,3,,,Parc des Princes,Barcelona,1-3
+Quarter-finals,2015-04-21,Bayern Munich,Porto,Germany,Portugal,6,1,,,Allianz Arena,Bayern Munich,6-1
+Quarter-finals,2015-04-21,Barcelona,Paris S-G,Spain,France,2,0,,,Camp Nou,Barcelona,2-0
+Quarter-finals,2015-04-22,Real Madrid,Atlético Madrid,Spain,Spain,1,0,,,Estadio Santiago Bernabéu,Real Madrid,1-0
+Quarter-finals,2015-04-22,Monaco,Juventus,France,Italy,0,0,,,Stade Louis II,,0-0
+Semi-finals,2015-05-05,Juventus,Real Madrid,Italy,Spain,2,1,,,Allianz Stadium,Juventus,2-1
+Semi-finals,2015-05-06,Barcelona,Bayern Munich,Spain,Germany,3,0,,,Camp Nou,Barcelona,3-0
+Semi-finals,2015-05-12,Bayern Munich,Barcelona,Germany,Spain,3,2,,,Allianz Arena,Bayern Munich,3-2
+Semi-finals,2015-05-13,Real Madrid,Juventus,Spain,Italy,1,1,,,Estadio Santiago Bernabéu,,1-1
+Final,2015-06-06,Juventus,Barcelona,Italy,Spain,1,3,,,Olympiastadion Berlin (Neutral Site),Barcelona,1-3

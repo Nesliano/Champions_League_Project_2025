@@ -1,0 +1,62 @@
+round_of_comp,date,home_team,away_team,home_nation,away_nation,home_goals,away_goals,home_penalties,away_penalties,venue,winning_team,result_90_min
+Group stage,1994-09-14,Manchester Utd,Göteborg,England,Sweden,4,2,,,Old Trafford,Manchester Utd,4-2
+Group stage,1994-09-14,Dynamo Kyiv,Spartak Moscow,Ukraine,Russia,3,2,,,Stadion Dynamo im. Valeriy Lobanovskiy,Dynamo Kyiv,3-2
+Group stage,1994-09-14,Barcelona,Galatasaray,Spain,Turkey,2,1,,,Camp Nou,Barcelona,2-1
+Group stage,1994-09-14,Paris S-G,Bayern Munich,France,Germany,2,0,,,Parc des Princes,Paris S-G,2-0
+Group stage,1994-09-14,Anderlecht,Steaua,Belgium,Romania,0,0,,,Constant Vanden Stock Stadium,,0-0
+Group stage,1994-09-14,Ajax,Milan,Netherlands,Italy,2,0,,,Olympisch,Ajax,2-0
+Group stage,1994-09-14,Austria Salzburg,AEK Athens,Austria,Greece,0,0,,,Ernst-Happel-Stadion,,0-0
+Group stage,1994-09-14,Hajduk Split,Benfica,Croatia,Portugal,0,0,,,Stadion Poljud,,0-0
+Group stage,1994-09-28,Bayern Munich,Dynamo Kyiv,Germany,Ukraine,1,0,,,Olympiastadion,Bayern Munich,1-0
+Group stage,1994-09-28,Milan,Austria Salzburg,Italy,Austria,3,0,,,Stadio San Siro,Milan,3-0
+Group stage,1994-09-28,Benfica,Anderlecht,Portugal,Belgium,3,1,,,Estádio do SL Benfica,Benfica,3-1
+Group stage,1994-09-28,Göteborg,Barcelona,Sweden,Spain,2,1,,,Ullevi,Göteborg,2-1
+Group stage,1994-09-28,Spartak Moscow,Paris S-G,Russia,France,1,2,,,Luzhniki Stadium,Paris S-G,1-2
+Group stage,1994-09-28,Galatasaray,Manchester Utd,Turkey,England,0,0,,,Ali Sami Yen Stadyumu,,0-0
+Group stage,1994-09-28,Steaua,Hajduk Split,Romania,Croatia,0,1,,,Stadionul Steaua,Hajduk Split,0-1
+Group stage,1994-09-28,AEK Athens,Ajax,Greece,Netherlands,1,2,,,Nikos Goumas,Ajax,1-2
+Group stage,1994-10-19,Hajduk Split,Anderlecht,Croatia,Belgium,2,1,,,Stadion Poljud,Hajduk Split,2-1
+Group stage,1994-10-19,Göteborg,Galatasaray,Sweden,Turkey,1,0,,,Ullevi,Göteborg,1-0
+Group stage,1994-10-19,AEK Athens,Milan,Greece,Italy,0,0,,,Nikos Goumas,,0-0
+Group stage,1994-10-19,Spartak Moscow,Bayern Munich,Russia,Germany,1,1,,,Luzhniki Stadium,,1-1
+Group stage,1994-10-19,Benfica,Steaua,Portugal,Romania,2,1,,,Estádio do SL Benfica,Benfica,2-1
+Group stage,1994-10-19,Austria Salzburg,Ajax,Austria,Netherlands,0,0,,,Ernst-Happel-Stadion,,0-0
+Group stage,1994-10-19,Manchester Utd,Barcelona,England,Spain,2,2,,,Old Trafford,,2-2
+Group stage,1994-10-19,Dynamo Kyiv,Paris S-G,Ukraine,France,1,2,,,Stadion Dynamo im. Valeriy Lobanovskiy,Paris S-G,1-2
+Group stage,1994-11-02,Barcelona,Manchester Utd,Spain,England,4,0,,,Camp Nou,Barcelona,4-0
+Group stage,1994-11-02,Steaua,Benfica,Romania,Portugal,1,1,,,Stadionul Steaua,,1-1
+Group stage,1994-11-02,Ajax,Austria Salzburg,Netherlands,Austria,1,1,,,Olympisch,,1-1
+Group stage,1994-11-02,Milan,AEK Athens,Italy,Greece,2,1,,,Nereo Rocco,Milan,2-1
+Group stage,1994-11-02,Anderlecht,Hajduk Split,Belgium,Croatia,0,0,,,Constant Vanden Stock Stadium,,0-0
+Group stage,1994-11-02,Paris S-G,Dynamo Kyiv,France,Ukraine,1,0,,,Parc des Princes,Paris S-G,1-0
+Group stage,1994-11-02,Bayern Munich,Spartak Moscow,Germany,Russia,2,2,,,Olympiastadion,,2-2
+Group stage,1994-11-02,Galatasaray,Göteborg,Turkey,Sweden,0,1,,,Ali Sami Yen Stadyumu,Göteborg,0-1
+Group stage,1994-11-23,Milan,Ajax,Italy,Netherlands,0,2,,,Nereo Rocco,Ajax,0-2
+Group stage,1994-11-23,Benfica,Hajduk Split,Portugal,Croatia,2,1,,,Estádio do SL Benfica,Benfica,2-1
+Group stage,1994-11-23,Spartak Moscow,Dynamo Kyiv,Russia,Ukraine,1,0,,,Luzhniki Stadium,Spartak Moscow,1-0
+Group stage,1994-11-23,AEK Athens,Austria Salzburg,Greece,Austria,1,3,,,Nikos Goumas,Austria Salzburg,1-3
+Group stage,1994-11-23,Galatasaray,Barcelona,Turkey,Spain,2,1,,,Ali Sami Yen Stadyumu,Galatasaray,2-1
+Group stage,1994-11-23,Steaua,Anderlecht,Romania,Belgium,1,1,,,Stadionul Steaua,,1-1
+Group stage,1994-11-23,Göteborg,Manchester Utd,Sweden,England,3,1,,,Ullevi,Göteborg,3-1
+Group stage,1994-11-23,Bayern Munich,Paris S-G,Germany,France,0,1,,,Olympiastadion,Paris S-G,0-1
+Group stage,1994-12-07,Barcelona,Göteborg,Spain,Sweden,1,1,,,Camp Nou,,1-1
+Group stage,1994-12-07,Anderlecht,Benfica,Belgium,Portugal,1,1,,,Constant Vanden Stock Stadium,,1-1
+Group stage,1994-12-07,Dynamo Kyiv,Bayern Munich,Ukraine,Germany,1,4,,,Stadion Dynamo im. Valeriy Lobanovskiy,Bayern Munich,1-4
+Group stage,1994-12-07,Paris S-G,Spartak Moscow,France,Russia,4,1,,,Parc des Princes,Paris S-G,4-1
+Group stage,1994-12-07,Hajduk Split,Steaua,Croatia,Romania,1,4,,,Stadion Poljud,Steaua,1-4
+Group stage,1994-12-07,Austria Salzburg,Milan,Austria,Italy,0,1,,,Ernst-Happel-Stadion,Milan,0-1
+Group stage,1994-12-07,Manchester Utd,Galatasaray,England,Turkey,4,0,,,Old Trafford,Manchester Utd,4-0
+Group stage,1994-12-07,Ajax,AEK Athens,Netherlands,Greece,2,0,,,Olympisch,Ajax,2-0
+Quarter-finals,1995-03-01,Milan,Benfica,Italy,Portugal,2,0,,,Stadio San Siro,Milan,2-0
+Quarter-finals,1995-03-01,Bayern Munich,Göteborg,Germany,Sweden,0,0,,,Olympiastadion,,0-0
+Quarter-finals,1995-03-01,Hajduk Split,Ajax,Croatia,Netherlands,0,0,,,Stadion Poljud,,0-0
+Quarter-finals,1995-03-01,Barcelona,Paris S-G,Spain,France,1,1,,,Camp Nou,,1-1
+Quarter-finals,1995-03-15,Paris S-G,Barcelona,France,Spain,2,1,,,Parc des Princes,Paris S-G,2-1
+Quarter-finals,1995-03-15,Göteborg,Bayern Munich,Sweden,Germany,2,2,,,Ullevi,,2-2
+Quarter-finals,1995-03-15,Benfica,Milan,Portugal,Italy,0,0,,,Estádio do SL Benfica,,0-0
+Quarter-finals,1995-03-15,Ajax,Hajduk Split,Netherlands,Croatia,3,0,,,Olympisch,Ajax,3-0
+Semi-finals,1995-04-05,Bayern Munich,Ajax,Germany,Netherlands,0,0,,,Olympiastadion,,0-0
+Semi-finals,1995-04-05,Paris S-G,Milan,France,Italy,0,1,,,Parc des Princes,Milan,0-1
+Semi-finals,1995-04-19,Milan,Paris S-G,Italy,France,2,0,,,Stadio San Siro,Milan,2-0
+Semi-finals,1995-04-19,Ajax,Bayern Munich,Netherlands,Germany,5,2,,,Olympisch,Ajax,5-2
+Final,1995-05-24,Ajax,Milan,Netherlands,Italy,1,0,,,Ernst-Happel-Stadion (Neutral Site),Ajax,1-0

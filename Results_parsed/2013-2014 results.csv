@@ -1,0 +1,126 @@
+round_of_comp,date,home_team,away_team,home_nation,away_nation,home_goals,away_goals,home_penalties,away_penalties,venue,winning_team,result_90_min
+Group stage,2013-09-17,Bayern Munich,CSKA Moscow,Germany,Russia,3,0,,,Fußball Arena München,Bayern Munich,3-0
+Group stage,2013-09-17,Real Sociedad,Shakhtar,Spain,Ukraine,0,2,,,Anoeta,Shakhtar,0-2
+Group stage,2013-09-17,Benfica,Anderlecht,Portugal,Belgium,2,0,,,Estádio do Sport Lisboa e Benfica,Benfica,2-0
+Group stage,2013-09-17,FC Copenhagen,Juventus,Denmark,Italy,1,1,,,Telia Parken,,1-1
+Group stage,2013-09-17,Galatasaray,Real Madrid,Turkey,Spain,1,6,,,Ali Sami Yen Spor Kompleksi,Real Madrid,1-6
+Group stage,2013-09-17,Olympiacos,Paris S-G,Greece,France,1,4,,,Stadio Georgios Karaiskakis,Paris S-G,1-4
+Group stage,2013-09-17,Manchester Utd,Leverkusen,England,Germany,4,2,,,Old Trafford,Manchester Utd,4-2
+Group stage,2013-09-17,Viktoria Plzeň,Manchester City,Czech Republic,England,0,3,,,Doosan Arena,Manchester City,0-3
+Group stage,2013-09-18,Barcelona,Ajax,Spain,Netherlands,4,0,,,Camp Nou,Barcelona,4-0
+Group stage,2013-09-18,Chelsea,Basel,England,Switzerland,1,2,,,Stamford Bridge,Basel,1-2
+Group stage,2013-09-18,Atlético Madrid,Zenit,Spain,Russia,3,1,,,Estadio Vicente Calderón,Atlético Madrid,3-1
+Group stage,2013-09-18,Milan,Celtic,Italy,Scotland,2,0,,,Stadio Giuseppe Meazza,Milan,2-0
+Group stage,2013-09-18,Schalke 04,Steaua,Germany,Romania,3,0,,,Arena AufSchalke,Schalke 04,3-0
+Group stage,2013-09-18,Marseille,Arsenal,France,England,1,2,,,Stade Vélodrome,Arsenal,1-2
+Group stage,2013-09-18,Austria Wien,Porto,Austria,Portugal,0,1,,,Ernst,Porto,0-1
+Group stage,2013-09-18,Napoli,Dortmund,Italy,Germany,2,1,,,Stadio San Paolo,Napoli,2-1
+Group stage,2013-10-01,Steaua,Chelsea,Romania,England,0,4,,,Arena Națională,Chelsea,0-4
+Group stage,2013-10-01,Zenit,Austria Wien,Russia,Austria,0,0,,,Stadion Petrovski,,0-0
+Group stage,2013-10-01,Basel,Schalke 04,Switzerland,Germany,0,1,,,St. Jakob,Schalke 04,0-1
+Group stage,2013-10-01,Ajax,Milan,Netherlands,Italy,1,1,,,Amsterdam ArenA,,1-1
+Group stage,2013-10-01,Dortmund,Marseille,Germany,France,3,0,,,BVB Stadion Dortmund,Dortmund,3-0
+Group stage,2013-10-01,Celtic,Barcelona,Scotland,Spain,0,1,,,Celtic Park,Barcelona,0-1
+Group stage,2013-10-01,Porto,Atlético Madrid,Portugal,Spain,1,2,,,Estádio do Dragão,Atlético Madrid,1-2
+Group stage,2013-10-01,Arsenal,Napoli,England,Italy,2,0,,,Arsenal Stadium,Arsenal,2-0
+Group stage,2013-10-02,Real Madrid,FC Copenhagen,Spain,Denmark,4,0,,,Estadio Santiago Bernabéu,Real Madrid,4-0
+Group stage,2013-10-02,Manchester City,Bayern Munich,England,Germany,1,3,,,City of Manchester Stadium,Bayern Munich,1-3
+Group stage,2013-10-02,Anderlecht,Olympiacos,Belgium,Greece,0,3,,,Constant Vanden Stock Stadium,Olympiacos,0-3
+Group stage,2013-10-02,Shakhtar,Manchester Utd,Ukraine,England,1,1,,,Donbass Arena,,1-1
+Group stage,2013-10-02,CSKA Moscow,Viktoria Plzeň,Russia,Czech Republic,3,2,,,Stadion Petrovskiy,CSKA Moscow,3-2
+Group stage,2013-10-02,Juventus,Galatasaray,Italy,Turkey,2,2,,,Juventus Stadium,,2-2
+Group stage,2013-10-02,Leverkusen,Real Sociedad,Germany,Spain,2,1,,,BayArena,Leverkusen,2-1
+Group stage,2013-10-02,Paris S-G,Benfica,France,Portugal,3,0,,,Parc des Princes,Paris S-G,3-0
+Group stage,2013-10-22,Schalke 04,Chelsea,Germany,England,0,3,,,Arena AufSchalke,Chelsea,0-3
+Group stage,2013-10-22,Porto,Zenit,Portugal,Russia,0,1,,,Estádio do Dragão,Zenit,0-1
+Group stage,2013-10-22,Austria Wien,Atlético Madrid,Austria,Spain,0,3,,,Ernst,Atlético Madrid,0-3
+Group stage,2013-10-22,Celtic,Ajax,Scotland,Netherlands,2,1,,,Celtic Park,Celtic,2-1
+Group stage,2013-10-22,Milan,Barcelona,Italy,Spain,1,1,,,Stadio Giuseppe Meazza,,1-1
+Group stage,2013-10-22,Arsenal,Dortmund,England,Germany,1,2,,,Arsenal Stadium,Dortmund,1-2
+Group stage,2013-10-22,Steaua,Basel,Romania,Switzerland,1,1,,,Arena Națională,,1-1
+Group stage,2013-10-22,Marseille,Napoli,France,Italy,1,2,,,Stade Vélodrome,Napoli,1-2
+Group stage,2013-10-23,Leverkusen,Shakhtar,Germany,Ukraine,4,0,,,BayArena,Leverkusen,4-0
+Group stage,2013-10-23,Bayern Munich,Viktoria Plzeň,Germany,Czech Republic,5,0,,,Fußball Arena München,Bayern Munich,5-0
+Group stage,2013-10-23,CSKA Moscow,Manchester City,Russia,England,1,2,,,Arena Khimki,Manchester City,1-2
+Group stage,2013-10-23,Real Madrid,Juventus,Spain,Italy,2,1,,,Estadio Santiago Bernabéu,Real Madrid,2-1
+Group stage,2013-10-23,Anderlecht,Paris S-G,Belgium,France,0,5,,,Constant Vanden Stock Stadium,Paris S-G,0-5
+Group stage,2013-10-23,Galatasaray,FC Copenhagen,Turkey,Denmark,3,1,,,Ali Sami Yen Spor Kompleksi,Galatasaray,3-1
+Group stage,2013-10-23,Benfica,Olympiacos,Portugal,Greece,1,1,,,Estádio do Sport Lisboa e Benfica,,1-1
+Group stage,2013-10-23,Manchester Utd,Real Sociedad,England,Spain,1,0,,,Old Trafford,Manchester Utd,1-0
+Group stage,2013-11-05,Juventus,Real Madrid,Italy,Spain,2,2,,,Juventus Stadium,,2-2
+Group stage,2013-11-05,Shakhtar,Leverkusen,Ukraine,Germany,0,0,,,Donbass Arena,,0-0
+Group stage,2013-11-05,Paris S-G,Anderlecht,France,Belgium,1,1,,,Parc des Princes,,1-1
+Group stage,2013-11-05,Viktoria Plzeň,Bayern Munich,Czech Republic,Germany,0,1,,,Doosan Arena,Bayern Munich,0-1
+Group stage,2013-11-05,FC Copenhagen,Galatasaray,Denmark,Turkey,1,0,,,Telia Parken,FC Copenhagen,1-0
+Group stage,2013-11-05,Olympiacos,Benfica,Greece,Portugal,1,0,,,Stadio Georgios Karaiskakis,Olympiacos,1-0
+Group stage,2013-11-05,Real Sociedad,Manchester Utd,Spain,England,0,0,,,Anoeta,,0-0
+Group stage,2013-11-05,Manchester City,CSKA Moscow,England,Russia,5,2,,,City of Manchester Stadium,Manchester City,5-2
+Group stage,2013-11-06,Barcelona,Milan,Spain,Italy,3,1,,,Camp Nou,Barcelona,3-1
+Group stage,2013-11-06,Dortmund,Arsenal,Germany,England,0,1,,,BVB Stadion Dortmund,Arsenal,0-1
+Group stage,2013-11-06,Ajax,Celtic,Netherlands,Scotland,1,0,,,Amsterdam ArenA,Ajax,1-0
+Group stage,2013-11-06,Napoli,Marseille,Italy,France,3,2,,,Stadio San Paolo,Napoli,3-2
+Group stage,2013-11-06,Zenit,Porto,Russia,Portugal,1,1,,,Stadion Petrovski,,1-1
+Group stage,2013-11-06,Chelsea,Schalke 04,England,Germany,3,0,,,Stamford Bridge,Chelsea,3-0
+Group stage,2013-11-06,Basel,Steaua,Switzerland,Romania,1,1,,,St. Jakob,,1-1
+Group stage,2013-11-06,Atlético Madrid,Austria Wien,Spain,Austria,4,0,,,Estadio Vicente Calderón,Atlético Madrid,4-0
+Group stage,2013-11-26,Arsenal,Marseille,England,France,2,0,,,Arsenal Stadium,Arsenal,2-0
+Group stage,2013-11-26,Celtic,Milan,Scotland,Italy,0,3,,,Celtic Park,Milan,0-3
+Group stage,2013-11-26,Basel,Chelsea,Switzerland,England,1,0,,,St. Jakob,Basel,1-0
+Group stage,2013-11-26,Steaua,Schalke 04,Romania,Germany,0,0,,,Arena Națională,,0-0
+Group stage,2013-11-26,Zenit,Atlético Madrid,Russia,Spain,1,1,,,Stadion Petrovski,,1-1
+Group stage,2013-11-26,Dortmund,Napoli,Germany,Italy,3,1,,,BVB Stadion Dortmund,Dortmund,3-1
+Group stage,2013-11-26,Ajax,Barcelona,Netherlands,Spain,2,1,,,Amsterdam ArenA,Ajax,2-1
+Group stage,2013-11-26,Porto,Austria Wien,Portugal,Austria,1,1,,,Estádio do Dragão,,1-1
+Group stage,2013-11-27,Shakhtar,Real Sociedad,Ukraine,Spain,4,0,,,Donbass Arena,Shakhtar,4-0
+Group stage,2013-11-27,Juventus,FC Copenhagen,Italy,Denmark,3,1,,,Juventus Stadium,Juventus,3-1
+Group stage,2013-11-27,Paris S-G,Olympiacos,France,Greece,2,1,,,Parc des Princes,Paris S-G,2-1
+Group stage,2013-11-27,Leverkusen,Manchester Utd,Germany,England,0,5,,,BayArena,Manchester Utd,0-5
+Group stage,2013-11-27,Manchester City,Viktoria Plzeň,England,Czech Republic,4,2,,,City of Manchester Stadium,Manchester City,4-2
+Group stage,2013-11-27,Anderlecht,Benfica,Belgium,Portugal,2,3,,,Constant Vanden Stock Stadium,Benfica,2-3
+Group stage,2013-11-27,Real Madrid,Galatasaray,Spain,Turkey,4,1,,,Estadio Santiago Bernabéu,Real Madrid,4-1
+Group stage,2013-11-27,CSKA Moscow,Bayern Munich,Russia,Germany,1,3,,,Arena Khimki,Bayern Munich,1-3
+Group stage,2013-12-10,FC Copenhagen,Real Madrid,Denmark,Spain,0,2,,,Telia Parken,Real Madrid,0-2
+Group stage,2013-12-10,Bayern Munich,Manchester City,Germany,England,2,3,,,Fußball Arena München,Manchester City,2-3
+Group stage,2013-12-10,Real Sociedad,Leverkusen,Spain,Germany,0,1,,,Anoeta,Leverkusen,0-1
+Group stage,2013-12-10,Viktoria Plzeň,CSKA Moscow,Czech Republic,Russia,2,1,,,Doosan Arena,Viktoria Plzeň,2-1
+Group stage,2013-12-10,Olympiacos,Anderlecht,Greece,Belgium,3,1,,,Stadio Georgios Karaiskakis,Olympiacos,3-1
+Group stage,2013-12-10,Manchester Utd,Shakhtar,England,Ukraine,1,0,,,Old Trafford,Manchester Utd,1-0
+Group stage,2013-12-10,Benfica,Paris S-G,Portugal,France,2,1,,,Estádio do Sport Lisboa e Benfica,Benfica,2-1
+Group stage,2013-12-11,Austria Wien,Zenit,Austria,Russia,4,1,,,Ernst,Austria Wien,4-1
+Group stage,2013-12-11,Napoli,Arsenal,Italy,England,2,0,,,Stadio San Paolo,Napoli,2-0
+Group stage,2013-12-11,Schalke 04,Basel,Germany,Switzerland,2,0,,,Arena AufSchalke,Schalke 04,2-0
+Group stage,2013-12-11,Chelsea,Steaua,England,Romania,1,0,,,Stamford Bridge,Chelsea,1-0
+Group stage,2013-12-11,Atlético Madrid,Porto,Spain,Portugal,2,0,,,Estadio Vicente Calderón,Atlético Madrid,2-0
+Group stage,2013-12-11,Marseille,Dortmund,France,Germany,1,2,,,Stade Vélodrome,Dortmund,1-2
+Group stage,2013-12-11,Barcelona,Celtic,Spain,Scotland,6,1,,,Camp Nou,Barcelona,6-1
+Group stage,2013-12-11,Milan,Ajax,Italy,Netherlands,0,0,,,Stadio Giuseppe Meazza,,0-0
+Group stage,2013-12-11,Galatasaray,Juventus,Turkey,Italy,1,0,,,Ali Sami Yen Spor Kompleksi,Galatasaray,1-0
+Round of 16,2014-02-18,Leverkusen,Paris S-G,Germany,France,0,4,,,BayArena,Paris S-G,0-4
+Round of 16,2014-02-18,Manchester City,Barcelona,England,Spain,0,2,,,City of Manchester Stadium,Barcelona,0-2
+Round of 16,2014-02-19,Arsenal,Bayern Munich,England,Germany,0,2,,,Arsenal Stadium,Bayern Munich,0-2
+Round of 16,2014-02-19,Milan,Atlético Madrid,Italy,Spain,0,1,,,Stadio Giuseppe Meazza,Atlético Madrid,0-1
+Round of 16,2014-02-25,Olympiacos,Manchester Utd,Greece,England,2,0,,,Stadio Georgios Karaiskakis,Olympiacos,2-0
+Round of 16,2014-02-25,Zenit,Dortmund,Russia,Germany,2,4,,,Stadion Petrovski,Dortmund,2-4
+Round of 16,2014-02-26,Schalke 04,Real Madrid,Germany,Spain,1,6,,,Arena AufSchalke,Real Madrid,1-6
+Round of 16,2014-02-26,Galatasaray,Chelsea,Turkey,England,1,1,,,Ali Sami Yen Spor Kompleksi,,1-1
+Round of 16,2014-03-11,Bayern Munich,Arsenal,Germany,England,1,1,,,Fußball Arena München,,1-1
+Round of 16,2014-03-11,Atlético Madrid,Milan,Spain,Italy,4,1,,,Estadio Vicente Calderón,Atlético Madrid,4-1
+Round of 16,2014-03-12,Paris S-G,Leverkusen,France,Germany,2,1,,,Parc des Princes,Paris S-G,2-1
+Round of 16,2014-03-12,Barcelona,Manchester City,Spain,England,2,1,,,Camp Nou,Barcelona,2-1
+Round of 16,2014-03-18,Chelsea,Galatasaray,England,Turkey,2,0,,,Stamford Bridge,Chelsea,2-0
+Round of 16,2014-03-18,Real Madrid,Schalke 04,Spain,Germany,3,1,,,Estadio Santiago Bernabéu,Real Madrid,3-1
+Round of 16,2014-03-19,Dortmund,Zenit,Germany,Russia,1,2,,,BVB Stadion Dortmund,Zenit,1-2
+Round of 16,2014-03-19,Manchester Utd,Olympiacos,England,Greece,3,0,,,Old Trafford,Manchester Utd,3-0
+Quarter-finals,2014-04-01,Barcelona,Atlético Madrid,Spain,Spain,1,1,,,Camp Nou,,1-1
+Quarter-finals,2014-04-01,Manchester Utd,Bayern Munich,England,Germany,1,1,,,Old Trafford,,1-1
+Quarter-finals,2014-04-02,Real Madrid,Dortmund,Spain,Germany,3,0,,,Estadio Santiago Bernabéu,Real Madrid,3-0
+Quarter-finals,2014-04-02,Paris S-G,Chelsea,France,England,3,1,,,Parc des Princes,Paris S-G,3-1
+Quarter-finals,2014-04-08,Dortmund,Real Madrid,Germany,Spain,2,0,,,BVB Stadion Dortmund,Dortmund,2-0
+Quarter-finals,2014-04-08,Chelsea,Paris S-G,England,France,2,0,,,Stamford Bridge,Chelsea,2-0
+Quarter-finals,2014-04-09,Bayern Munich,Manchester Utd,Germany,England,3,1,,,Fußball Arena München,Bayern Munich,3-1
+Quarter-finals,2014-04-09,Atlético Madrid,Barcelona,Spain,Spain,1,0,,,Estadio Vicente Calderón,Atlético Madrid,1-0
+Semi-finals,2014-04-22,Atlético Madrid,Chelsea,Spain,England,0,0,,,Estadio Vicente Calderón,,0-0
+Semi-finals,2014-04-23,Real Madrid,Bayern Munich,Spain,Germany,1,0,,,Estadio Santiago Bernabéu,Real Madrid,1-0
+Semi-finals,2014-04-29,Bayern Munich,Real Madrid,Germany,Spain,0,4,,,Fußball Arena München,Real Madrid,0-4
+Semi-finals,2014-04-30,Chelsea,Atlético Madrid,England,Spain,1,3,,,Stamford Bridge,Atlético Madrid,1-3
+Final,2014-05-24,Real Madrid,Atlético Madrid,Spain,Spain,4,1,,,Estádio do Sport Lisboa e Benfica (Neutral Site),Real Madrid,4-1

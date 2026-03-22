@@ -1,0 +1,60 @@
+round_of_comp,date,home_team,away_team,home_nation,away_nation,home_goals,away_goals,home_penalties,away_penalties,venue,winning_team,result_90_min
+First round,1990-09-18,Odense,Real Madrid,Denmark,Spain,1,4,,,Atletikstadion,Real Madrid,1-4
+First round,1990-09-19,KA,CSKA Sofia,Iceland,Bulgaria,1,0,,,Akureyrarvöllur,KA,1-0
+First round,1990-09-19,Marseille,Dinamo Tirana,France,Albania,5,1,,,Stade Vélodrome,Marseille,5-1
+First round,1990-09-19,Dinamo București,St Patrick's,Romania,Republic of Ireland,4,0,,,Dinamo,Dinamo București,4-0
+First round,1990-09-19,Valletta FC,Rangers,Malta,Scotland,0,4,,,National Stadium,Rangers,0-4
+First round,1990-09-19,Porto,Portadown FC,Portugal,Northern Ireland,5,0,,,O Bonfim,Porto,5-0
+First round,1990-09-19,Lillestrøm,Club Brugge,Norway,Belgium,1,1,,,Åråsen,,1-1
+First round,1990-09-19,FC Tirol Innsbruck,Lahti,Austria,Finland,5,0,,,Tivoli,FC Tirol Innsbruck,5-0
+First round,1990-09-19,Malmö,Beşiktaş,Sweden,Turkey,3,2,,,Malmö Stadion,Malmö,3-2
+First round,1990-09-19,Lech Poznań,Panathinaikos,Poland,Greece,3,0,,,Stadion Miejski,Lech Poznań,3-0
+First round,1990-09-19,Sparta Prague,Spartak Moscow,Czech Republic,Russia,0,2,,,Generali Arena,Spartak Moscow,0-2
+First round,1990-09-19,Union Luxembourg,Dresden,Luxembourg,Germany,1,3,,,Achille Hammerel,Dresden,1-3
+First round,1990-09-19,APOEL FC,Bayern Munich,Cyprus,Germany,2,3,,,Makarion,Bayern Munich,2-3
+First round,1990-09-19,Red Star,Grasshopper,Serbia,Switzerland,1,1,,,Stadion Rajko Mitić,,1-1
+First round,1990-09-19,Napoli,Újpest,Italy,Hungary,3,0,,,Stadio San Paolo,Napoli,3-0
+First round,1990-10-02,Real Madrid,Odense,Spain,Denmark,6,0,,,Estadio Santiago Bernabéu,Real Madrid,6-0
+First round,1990-10-03,Dresden,Union Luxembourg,Germany,Luxembourg,3,0,,,Rudolf-Harbig,Dresden,3-0
+First round,1990-10-03,Bayern Munich,APOEL FC,Germany,Cyprus,4,0,,,Olympiastadion,Bayern Munich,4-0
+First round,1990-10-03,Újpest,Napoli,Hungary,Italy,0,2,,,Ferenc Szusza Stadion,Napoli,0-2
+First round,1990-10-03,Beşiktaş,Malmö,Turkey,Sweden,2,2,,,BJK İnönü Stadyumu,,2-2
+First round,1990-10-03,CSKA Sofia,KA,Bulgaria,Iceland,3,0,,,Bulgarska Armia Stadion,CSKA Sofia,3-0
+First round,1990-10-03,Portadown FC,Porto,Northern Ireland,Portugal,1,8,,,Shamrock Park,Porto,1-8
+First round,1990-10-03,Grasshopper,Red Star,Switzerland,Serbia,1,4,,,Hardturm,Red Star,1-4
+First round,1990-10-03,Lahti,FC Tirol Innsbruck,Finland,Austria,1,2,,,Keskusurheilukenttä,FC Tirol Innsbruck,1-2
+First round,1990-10-03,St Patrick's,Dinamo București,Republic of Ireland,Romania,1,1,,,Tolka Park,,1-1
+First round,1990-10-03,Spartak Moscow,Sparta Prague,Russia,Czech Republic,2,0,,,Luzhniki Stadium,Spartak Moscow,2-0
+First round,1990-10-03,Dinamo Tirana,Marseille,Albania,France,0,0,,,Selman Stermazi,,0-0
+First round,1990-10-03,Panathinaikos,Lech Poznań,Greece,Poland,1,2,,,OACA Spyros Louis,Lech Poznań,1-2
+First round,1990-10-03,Rangers,Valletta FC,Scotland,Malta,6,0,,,Ibrox Stadium,Rangers,6-0
+First round,1990-10-03,Club Brugge,Lillestrøm,Belgium,Norway,2,0,,,Jan Breydelstadion,Club Brugge,2-0
+Second round,1990-10-23,Bayern Munich,CSKA Sofia,Germany,Bulgaria,4,0,,,Olympiastadion,Bayern Munich,4-0
+Second round,1990-10-24,Milan,Club Brugge,Italy,Belgium,0,0,,,Stadio San Siro,,0-0
+Second round,1990-10-24,Napoli,Spartak Moscow,Italy,Russia,0,0,,,Stadio San Paolo,,0-0
+Second round,1990-10-24,Dinamo București,Porto,Romania,Portugal,0,0,,,Dinamo,,0-0
+Second round,1990-10-24,Dresden,Malmö,Germany,Sweden,1,1,,,Rudolf-Harbig,,1-1
+Second round,1990-10-24,Red Star,Rangers,Serbia,Scotland,3,0,,,Stadion Rajko Mitić,Red Star,3-0
+Second round,1990-10-24,Real Madrid,FC Tirol Innsbruck,Spain,Austria,9,1,,,Estadio Santiago Bernabéu,Real Madrid,9-1
+Second round,1990-10-25,Lech Poznań,Marseille,Poland,France,3,2,,,Stadion Miejski,Lech Poznań,3-2
+Second round,1990-11-06,CSKA Sofia,Bayern Munich,Bulgaria,Germany,0,3,,,Bulgarska Armia Stadion,Bayern Munich,0-3
+Second round,1990-11-07,FC Tirol Innsbruck,Real Madrid,Austria,Spain,2,2,,,Tivoli,,2-2
+Second round,1990-11-07,Malmö,Dresden,Sweden,Germany,1,1,4,5,Malmö Stadion,Dresden,1-1
+Second round,1990-11-07,Rangers,Red Star,Scotland,Serbia,1,1,,,Ibrox Stadium,,1-1
+Second round,1990-11-07,Spartak Moscow,Napoli,Russia,Italy,0,0,5,3,Luzhniki Stadium,Spartak Moscow,0-0
+Second round,1990-11-07,Marseille,Lech Poznań,France,Poland,6,1,,,Stade Vélodrome,Marseille,6-1
+Second round,1990-11-07,Club Brugge,Milan,Belgium,Italy,0,1,,,Jan Breydelstadion,Milan,0-1
+Second round,1990-11-07,Porto,Dinamo București,Portugal,Romania,4,0,,,As Antas,Porto,4-0
+Quarter-finals,1991-03-06,Bayern Munich,Porto,Germany,Portugal,1,1,,,Olympiastadion,,1-1
+Quarter-finals,1991-03-06,Milan,Marseille,Italy,France,1,1,,,Stadio San Siro,,1-1
+Quarter-finals,1991-03-06,Spartak Moscow,Real Madrid,Russia,Spain,0,0,,,Luzhniki Stadium,,0-0
+Quarter-finals,1991-03-06,Red Star,Dresden,Serbia,Germany,3,0,,,Stadion Rajko Mitić,Red Star,3-0
+Quarter-finals,1991-03-20,Marseille,Milan,France,Italy,3,0,,,Stade Vélodrome,Marseille,3-0
+Quarter-finals,1991-03-20,Dresden,Red Star,Germany,Serbia,0,3,,,Rudolf-Harbig,Red Star,0-3
+Quarter-finals,1991-03-20,Real Madrid,Spartak Moscow,Spain,Russia,1,3,,,Estadio Santiago Bernabéu,Spartak Moscow,1-3
+Quarter-finals,1991-03-20,Porto,Bayern Munich,Portugal,Germany,0,2,,,As Antas,Bayern Munich,0-2
+Semi-finals,1991-04-10,Bayern Munich,Red Star,Germany,Serbia,1,2,,,Olympiastadion,Red Star,1-2
+Semi-finals,1991-04-10,Spartak Moscow,Marseille,Russia,France,1,3,,,Luzhniki Stadium,Marseille,1-3
+Semi-finals,1991-04-24,Marseille,Spartak Moscow,France,Russia,2,1,,,Stade Vélodrome,Marseille,2-1
+Semi-finals,1991-04-24,Red Star,Bayern Munich,Serbia,Germany,2,2,,,Stadion Rajko Mitić,,2-2
+Final,1991-05-29,Red Star,Marseille,Serbia,France,0,0,5,3,San Nicola (Neutral Site),Red Star,0-0
